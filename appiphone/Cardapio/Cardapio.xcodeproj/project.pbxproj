@@ -1,0 +1,561 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7EB5356A1E28166D00A94BD6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB535691E28166D00A94BD6 /* AppDelegate.swift */; };
+		7EB5356F1E28166D00A94BD6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7EB5356D1E28166D00A94BD6 /* Main.storyboard */; };
+		7EB535711E28166D00A94BD6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7EB535701E28166D00A94BD6 /* Assets.xcassets */; };
+		7EB535741E28166D00A94BD6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7EB535721E28166D00A94BD6 /* LaunchScreen.storyboard */; };
+		7EB5357F1E28166E00A94BD6 /* CardapioTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB5357E1E28166E00A94BD6 /* CardapioTests.swift */; };
+		7EB5358A1E28166E00A94BD6 /* CardapioUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB535891E28166E00A94BD6 /* CardapioUITests.swift */; };
+		7EB5359C1E29A1D000A94BD6 /* refeicao.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB5359B1E29A1D000A94BD6 /* refeicao.swift */; };
+		7EB5359E1E29A27A00A94BD6 /* item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB5359D1E29A27A00A94BD6 /* item.swift */; };
+		7EB535A01E29A38500A94BD6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB5359F1E29A38500A94BD6 /* ViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		7EB5357B1E28166E00A94BD6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 7EB5355E1E28166D00A94BD6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 7EB535651E28166D00A94BD6;
+			remoteInfo = Cardapio;
+		};
+		7EB535861E28166E00A94BD6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 7EB5355E1E28166D00A94BD6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 7EB535651E28166D00A94BD6;
+			remoteInfo = Cardapio;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		7EB535661E28166D00A94BD6 /* Cardapio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cardapio.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7EB535691E28166D00A94BD6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		7EB5356E1E28166D00A94BD6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		7EB535701E28166D00A94BD6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		7EB535731E28166D00A94BD6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		7EB535751E28166D00A94BD6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7EB5357A1E28166E00A94BD6 /* CardapioTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CardapioTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7EB5357E1E28166E00A94BD6 /* CardapioTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardapioTests.swift; sourceTree = "<group>"; };
+		7EB535801E28166E00A94BD6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7EB535851E28166E00A94BD6 /* CardapioUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CardapioUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7EB535891E28166E00A94BD6 /* CardapioUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardapioUITests.swift; sourceTree = "<group>"; };
+		7EB5358B1E28166E00A94BD6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7EB535971E28463A00A94BD6 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
+		7EB5359B1E29A1D000A94BD6 /* refeicao.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = refeicao.swift; sourceTree = "<group>"; };
+		7EB5359D1E29A27A00A94BD6 /* item.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = item.swift; sourceTree = "<group>"; };
+		7EB5359F1E29A38500A94BD6 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		7EB535631E28166D00A94BD6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7EB535771E28166E00A94BD6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7EB535821E28166E00A94BD6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		7EB5355D1E28166D00A94BD6 = {
+			isa = PBXGroup;
+			children = (
+				7EB535681E28166D00A94BD6 /* Cardapio */,
+				7EB5357D1E28166E00A94BD6 /* CardapioTests */,
+				7EB535881E28166E00A94BD6 /* CardapioUITests */,
+				7EB535671E28166D00A94BD6 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		7EB535671E28166D00A94BD6 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7EB535661E28166D00A94BD6 /* Cardapio.app */,
+				7EB5357A1E28166E00A94BD6 /* CardapioTests.xctest */,
+				7EB535851E28166E00A94BD6 /* CardapioUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		7EB535681E28166D00A94BD6 /* Cardapio */ = {
+			isa = PBXGroup;
+			children = (
+				7EB535981E29A1A600A94BD6 /* models */,
+				7EB535991E29A1A600A94BD6 /* view */,
+				7EB5359A1E29A1A600A94BD6 /* viewcontrollers */,
+				7EB535691E28166D00A94BD6 /* AppDelegate.swift */,
+				7EB535701E28166D00A94BD6 /* Assets.xcassets */,
+				7EB535721E28166D00A94BD6 /* LaunchScreen.storyboard */,
+				7EB535751E28166D00A94BD6 /* Info.plist */,
+				7EB535971E28463A00A94BD6 /* MyPlayground.playground */,
+			);
+			path = Cardapio;
+			sourceTree = "<group>";
+		};
+		7EB5357D1E28166E00A94BD6 /* CardapioTests */ = {
+			isa = PBXGroup;
+			children = (
+				7EB5357E1E28166E00A94BD6 /* CardapioTests.swift */,
+				7EB535801E28166E00A94BD6 /* Info.plist */,
+			);
+			path = CardapioTests;
+			sourceTree = "<group>";
+		};
+		7EB535881E28166E00A94BD6 /* CardapioUITests */ = {
+			isa = PBXGroup;
+			children = (
+				7EB535891E28166E00A94BD6 /* CardapioUITests.swift */,
+				7EB5358B1E28166E00A94BD6 /* Info.plist */,
+			);
+			path = CardapioUITests;
+			sourceTree = "<group>";
+		};
+		7EB535981E29A1A600A94BD6 /* models */ = {
+			isa = PBXGroup;
+			children = (
+				7EB5359B1E29A1D000A94BD6 /* refeicao.swift */,
+				7EB5359D1E29A27A00A94BD6 /* item.swift */,
+			);
+			path = models;
+			sourceTree = "<group>";
+		};
+		7EB535991E29A1A600A94BD6 /* view */ = {
+			isa = PBXGroup;
+			children = (
+				7EB5356D1E28166D00A94BD6 /* Main.storyboard */,
+			);
+			path = view;
+			sourceTree = "<group>";
+		};
+		7EB5359A1E29A1A600A94BD6 /* viewcontrollers */ = {
+			isa = PBXGroup;
+			children = (
+				7EB5359F1E29A38500A94BD6 /* ViewController.swift */,
+			);
+			path = viewcontrollers;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		7EB535651E28166D00A94BD6 /* Cardapio */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7EB5358E1E28166E00A94BD6 /* Build configuration list for PBXNativeTarget "Cardapio" */;
+			buildPhases = (
+				7EB535621E28166D00A94BD6 /* Sources */,
+				7EB535631E28166D00A94BD6 /* Frameworks */,
+				7EB535641E28166D00A94BD6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Cardapio;
+			productName = Cardapio;
+			productReference = 7EB535661E28166D00A94BD6 /* Cardapio.app */;
+			productType = "com.apple.product-type.application";
+		};
+		7EB535791E28166E00A94BD6 /* CardapioTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7EB535911E28166E00A94BD6 /* Build configuration list for PBXNativeTarget "CardapioTests" */;
+			buildPhases = (
+				7EB535761E28166E00A94BD6 /* Sources */,
+				7EB535771E28166E00A94BD6 /* Frameworks */,
+				7EB535781E28166E00A94BD6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7EB5357C1E28166E00A94BD6 /* PBXTargetDependency */,
+			);
+			name = CardapioTests;
+			productName = CardapioTests;
+			productReference = 7EB5357A1E28166E00A94BD6 /* CardapioTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		7EB535841E28166E00A94BD6 /* CardapioUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7EB535941E28166E00A94BD6 /* Build configuration list for PBXNativeTarget "CardapioUITests" */;
+			buildPhases = (
+				7EB535811E28166E00A94BD6 /* Sources */,
+				7EB535821E28166E00A94BD6 /* Frameworks */,
+				7EB535831E28166E00A94BD6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7EB535871E28166E00A94BD6 /* PBXTargetDependency */,
+			);
+			name = CardapioUITests;
+			productName = CardapioUITests;
+			productReference = 7EB535851E28166E00A94BD6 /* CardapioUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		7EB5355E1E28166D00A94BD6 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0820;
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = "Vitor Avanço";
+				TargetAttributes = {
+					7EB535651E28166D00A94BD6 = {
+						CreatedOnToolsVersion = 8.2.1;
+						ProvisioningStyle = Automatic;
+					};
+					7EB535791E28166E00A94BD6 = {
+						CreatedOnToolsVersion = 8.2.1;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 7EB535651E28166D00A94BD6;
+					};
+					7EB535841E28166E00A94BD6 = {
+						CreatedOnToolsVersion = 8.2.1;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 7EB535651E28166D00A94BD6;
+					};
+				};
+			};
+			buildConfigurationList = 7EB535611E28166D00A94BD6 /* Build configuration list for PBXProject "Cardapio" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 7EB5355D1E28166D00A94BD6;
+			productRefGroup = 7EB535671E28166D00A94BD6 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7EB535651E28166D00A94BD6 /* Cardapio */,
+				7EB535791E28166E00A94BD6 /* CardapioTests */,
+				7EB535841E28166E00A94BD6 /* CardapioUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		7EB535641E28166D00A94BD6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7EB535741E28166D00A94BD6 /* LaunchScreen.storyboard in Resources */,
+				7EB535711E28166D00A94BD6 /* Assets.xcassets in Resources */,
+				7EB5356F1E28166D00A94BD6 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7EB535781E28166E00A94BD6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7EB535831E28166E00A94BD6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7EB535621E28166D00A94BD6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7EB5359E1E29A27A00A94BD6 /* item.swift in Sources */,
+				7EB5359C1E29A1D000A94BD6 /* refeicao.swift in Sources */,
+				7EB535A01E29A38500A94BD6 /* ViewController.swift in Sources */,
+				7EB5356A1E28166D00A94BD6 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7EB535761E28166E00A94BD6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7EB5357F1E28166E00A94BD6 /* CardapioTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7EB535811E28166E00A94BD6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7EB5358A1E28166E00A94BD6 /* CardapioUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		7EB5357C1E28166E00A94BD6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 7EB535651E28166D00A94BD6 /* Cardapio */;
+			targetProxy = 7EB5357B1E28166E00A94BD6 /* PBXContainerItemProxy */;
+		};
+		7EB535871E28166E00A94BD6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 7EB535651E28166D00A94BD6 /* Cardapio */;
+			targetProxy = 7EB535861E28166E00A94BD6 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		7EB5356D1E28166D00A94BD6 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7EB5356E1E28166D00A94BD6 /* Base */,
+			);
+			name = Main.storyboard;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		7EB535721E28166D00A94BD6 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7EB535731E28166D00A94BD6 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		7EB5358C1E28166E00A94BD6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		7EB5358D1E28166E00A94BD6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		7EB5358F1E28166E00A94BD6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Cardapio/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = vitoravanco.Cardapio;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		7EB535901E28166E00A94BD6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Cardapio/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = vitoravanco.Cardapio;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		7EB535921E28166E00A94BD6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = CardapioTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = vitoravanco.CardapioTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Cardapio.app/Cardapio";
+			};
+			name = Debug;
+		};
+		7EB535931E28166E00A94BD6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = CardapioTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = vitoravanco.CardapioTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Cardapio.app/Cardapio";
+			};
+			name = Release;
+		};
+		7EB535951E28166E00A94BD6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = CardapioUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = vitoravanco.CardapioUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = Cardapio;
+			};
+			name = Debug;
+		};
+		7EB535961E28166E00A94BD6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = CardapioUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = vitoravanco.CardapioUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = Cardapio;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7EB535611E28166D00A94BD6 /* Build configuration list for PBXProject "Cardapio" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7EB5358C1E28166E00A94BD6 /* Debug */,
+				7EB5358D1E28166E00A94BD6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7EB5358E1E28166E00A94BD6 /* Build configuration list for PBXNativeTarget "Cardapio" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7EB5358F1E28166E00A94BD6 /* Debug */,
+				7EB535901E28166E00A94BD6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		7EB535911E28166E00A94BD6 /* Build configuration list for PBXNativeTarget "CardapioTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7EB535921E28166E00A94BD6 /* Debug */,
+				7EB535931E28166E00A94BD6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		7EB535941E28166E00A94BD6 /* Build configuration list for PBXNativeTarget "CardapioUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7EB535951E28166E00A94BD6 /* Debug */,
+				7EB535961E28166E00A94BD6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 7EB5355E1E28166D00A94BD6 /* Project object */;
+}
