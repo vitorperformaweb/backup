@@ -1,0 +1,45 @@
+[20-Sep-2016 17:47:38 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 17
+[20-Sep-2016 17:47:40 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 17
+[20-Sep-2016 17:48:52 UTC] PHP Notice:  Undefined variable: conn in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 7
+[20-Sep-2016 17:48:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 7
+[20-Sep-2016 17:48:52 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 9
+[20-Sep-2016 17:48:52 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 12
+[20-Sep-2016 17:48:52 UTC] PHP Notice:  Array to string conversion in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 30
+[20-Sep-2016 17:49:51 UTC] PHP Notice:  Undefined variable: conn in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 7
+[20-Sep-2016 17:49:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 7
+[20-Sep-2016 17:49:51 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 9
+[20-Sep-2016 17:49:51 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 12
+[20-Sep-2016 17:51:15 UTC] PHP Notice:  Undefined variable: conn in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 7
+[20-Sep-2016 17:51:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 7
+[20-Sep-2016 17:51:15 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 9
+[20-Sep-2016 17:51:15 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 12
+[20-Sep-2016 17:52:26 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 21
+[20-Sep-2016 17:52:46 UTC] PHP Notice:  Undefined variable: conn in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 7
+[20-Sep-2016 17:52:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 7
+[20-Sep-2016 17:52:46 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 9
+[20-Sep-2016 17:52:46 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 12
+[20-Sep-2016 18:04:33 UTC] PHP Notice:  Undefined variable: conn in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 7
+[20-Sep-2016 18:04:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 7
+[20-Sep-2016 18:04:33 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 9
+[20-Sep-2016 18:04:33 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 12
+[20-Sep-2016 19:15:24 UTC] PHP Notice:  Undefined variable: conn in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 7
+[20-Sep-2016 19:15:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 7
+[20-Sep-2016 19:15:24 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 9
+[20-Sep-2016 19:15:24 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 12
+[20-Sep-2016 19:15:26 UTC] PHP Notice:  Undefined variable: conn in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 7
+[20-Sep-2016 19:15:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 7
+[20-Sep-2016 19:15:26 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 9
+[20-Sep-2016 19:15:26 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 12
+[20-Sep-2016 19:15:41 UTC] PHP Notice:  Undefined variable: conn in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 7
+[20-Sep-2016 19:15:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 7
+[20-Sep-2016 19:15:41 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 9
+[20-Sep-2016 19:15:41 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 12
+[20-Sep-2016 19:15:41 UTC] PHP Notice:  Undefined variable: conn in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 7
+[20-Sep-2016 19:15:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 7
+[20-Sep-2016 19:15:41 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 9
+[20-Sep-2016 19:15:41 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 12
+[20-Sep-2016 19:19:29 UTC] PHP Notice:  Undefined variable: conn in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 7
+[20-Sep-2016 19:19:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 7
+[20-Sep-2016 19:19:29 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 9
+[20-Sep-2016 19:19:29 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 12
+[20-Sep-2016 19:39:37 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/caspluswater/public_html/catalog/view/theme/cas/template/common/forGift.php on line 34

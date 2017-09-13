@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-816 51 51.886 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #333;
+      }
+
+      .cls-2 {
+        fill: #333;
+      }
+    </style>
+  </defs>
+  <g id="Group_616" data-name="Group 616" transform="translate(-1565 -64)">
+    <line id="Line_43" data-name="Line 43" class="cls-1" y2="20" transform="translate(749.5 120.5)"/>
+    <path id="search" class="cls-2" d="M29.711,29.041,21.3,20.288a11.9,11.9,0,1,0-.837.764l8.437,8.774a.566.566,0,1,0,.817-.785ZM12.877,22.656A10.762,10.762,0,1,1,23.639,11.894,10.774,10.774,0,0,1,12.877,22.656Z" transform="translate(771.017 115)"/>
+  </g>
+</svg>

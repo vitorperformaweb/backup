@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Lista</title>
+</head>
+<body>
+	<table style="border: 1px solid #ccc;">
+		<tr>
+			<td style="border: 1px solid #f1f1f1; padding: 5px">ID</td>
+			<td style="border: 1px solid #f1f1f1; padding: 5px">Titulo</td>
+			<td style="border: 1px solid #f1f1f1; padding: 5px">Descricao</td>
+			<td style="border: 1px solid #f1f1f1; padding: 5px">Preco</td>
+		</tr>
+		<%for(var i=0;i<lista.length;i++) { %>
+		<tr>
+			<td style="border: 1px solid #f1f1f1; padding: 5px">
+				<%=lista[i].id %>
+			</td>
+			<td style="border: 1px solid #f1f1f1; padding: 5px">
+				<%=lista[i].titulo %>
+			</td>
+			<td style="border: 1px solid #f1f1f1; padding: 5px">
+				<%=lista[i].descricao %>
+			</td>
+			<td style="border: 1px solid #f1f1f1; padding: 5px">
+				<%=lista[i].preco %>
+			</td>
+		</tr>
+		<% } %>
+	</table>
+</body>
+</html>

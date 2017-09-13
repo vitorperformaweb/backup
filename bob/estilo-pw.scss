@@ -1,0 +1,1496 @@
+@mixin anima($speed: 200ms) {
+    transition: All $speed ease-in-out;
+    -webkit-transition: All $speed ease-in-out;
+    -moz-transition: All $speed ease-in-out;
+    -o-transition: All $speed ease-in-out;
+}
+.copyright li.agv-copyright{
+    background: url(http://www.performaweb.com.br/pwlogo.png) no-repeat;
+    font-size: 0;
+    background-size: cover;
+    float: right;
+    vertical-align: top;
+    width: 95px;
+    a{
+    	width: 95px;
+    }
+}
+section.copyright{
+    width: 250px;
+    ul{
+    	width: 100%;
+    }
+}
+.vtex-plataform {
+    top: 20px;
+}
+.slideshow-home-mobile, .pw-busca-mobile, .pw-header-mobile{
+	display: none;
+}
+.banner-grande-home{
+	.chamada{
+		.marcas{
+			max-width: 700px;
+    		margin: auto;
+			.itens{
+				.item{
+					height: 140px;
+					display: table;
+					width: 100%;
+					img{
+						max-width: 100%;
+						height: auto;
+						display: table-cell;
+					    vertical-align: middle;
+					    width: auto;
+					    margin: auto;
+					}
+				}
+			}
+		}
+	}
+}
+.departamento,.resultado-busca, .categoria{
+	.main{
+		.vitrine{
+			.prateleira{
+				display: table;
+				width: 100%;
+			}
+			.pager.top{
+				display: none;
+			}
+			.pager.bottom{
+				display: table !important;
+				width: 100%;
+
+				.pages{
+					display: block !important;
+				}
+			}
+		}
+	}
+}
+#f-content-2250{
+	display: none !important;
+}
+body.home section.newsletter-miolo .container{
+	width: 1140px;
+}
+body.home section.newsletter-miolo .container .txt{
+	float: left;
+    width: 20%;
+    line-height: 20px;
+    font-size: 16px;
+    padding: 0 15px;
+}
+.pw-header{
+	background-color: #fafafa;
+	padding-top: 10px;
+	.site-logo{
+		overflow: hidden;
+	    background: url(http://bestofbeauty.vteximg.com.br/arquivos/logo.png);
+	    width: 100%;
+	    max-width: 250px;
+	    height: 70px;
+	    background-repeat: no-repeat;
+	    background-size: contain;
+	    display: block;
+	    margin: auto;
+	    background-position: center;
+	    a{
+	    	display: block;
+	    	text-indent: -999px;
+	    }
+	}
+	.col-md-2{
+		padding: 0px;
+	}
+	.icones{
+		margin-top: 10px;
+		ul{
+			margin-bottom: 0px;
+			width: 100%;
+			li{
+				display: inline-block;
+				position: relative;
+				width: 25%;
+				height: 35px;
+				padding: 5px 10px;
+				.welcome{
+					a{
+						color: #521844;
+						font-weight: 600;
+						cursor: pointer;
+					}
+				}
+				&.carrinho{
+					.icone{
+						background-image: url('http://www.bestofbeauty.com.br/Arquivos/cart-of-ecommerce.png');
+						margin-left: 33%;
+						margin-right: 0px;
+					}
+				}
+				&.busca{
+				    padding-left: 0px !important;
+					.icone{
+						background-image: url('http://www.bestofbeauty.com.br/Arquivos/magnifying-glass.png');
+						margin-left: 33%;
+						margin-right: 0px;
+						display: none;
+					}
+					.search{
+					    display: inline-block;
+				        position: relative;
+					}
+					&:hover{
+						.search{
+							position: relative;
+						}
+					}
+				}
+				.search{
+					.busca{
+						.icone{
+							background-image: url('http://www.bestofbeauty.com.br/Arquivos/cart-of-ecommerce.png');
+						}
+						> label, > legend{
+							display: none;
+						}
+						> select{
+							display: none;
+						}
+						.fulltext-search-box{
+							height: 30px;
+							padding: 5px;
+						}
+						.btn-buscar{
+							height: 30px;
+							width: 30px;
+							overflow: hidden;
+							text-indent: -999px;
+							border: 0px;
+							background-color: transparent;
+							font-size: 0;
+						    background: url(http://www.bestofbeauty.com.br/arquivos/sprite.png) -234px -68px no-repeat;
+						    border: 0;
+						    width: 40px;
+						    height: 35px;
+						    position: absolute;
+						    right: 5px;
+						    top: 2px;
+						}
+					}
+				}
+				&.carrinho{
+					.cart-info{
+						display: block;
+						width: 20px;
+					    height: auto;
+					    background: red;
+					    text-align: center;
+					    border-radius: 100%;
+					    line-height: 14px;
+					    background: #561d46;
+					    border: 2px solid #FFF;
+					    padding: 0px;
+				        position: absolute;
+					    top: 3px;
+					    left: 20px;
+					    left: 30%;
+						.amount-items, .amount-kits, .total-cart{
+							display: none;
+
+						}
+						.amount-products{
+						    padding: 0px;
+						    width: auto;
+						    height: auto;
+						    display: block;
+						    color: #FFF;
+							strong{
+								display: none;
+							}
+							.amount-products-em{
+								font-weight: 400;
+								font-style: normal;
+								font-size: 9px;
+							}
+						}
+					}
+				}
+				.search{
+					position: absolute;
+				    width: 275px;
+				    top: 5px;
+				    z-index: 9;
+				    display: inline-block;
+					border: 1px solid transparent;
+					padding: 5px 10px;
+				    display: block;
+				    position: absolute;
+			        right: 285%;
+				    top: -10px;
+				    z-index: 9;
+				    font-size: 12px;
+				    .fulltext-search-box{
+				    	width: 65%;
+				    	height: 30px;
+				    	border: 1px solid #521844;
+				    	box-shadow: none;
+				    	&:focus{
+				    		outline: none;
+				    		box-shadow: none;
+				    	}
+				    }
+
+				}
+				&:hover{
+					
+					padding-left: 0px;
+					&:nth-child(1){
+						.text,.texto{
+							min-width: 285px;
+						}
+					}
+					&:nth-child(2){
+						.text,.texto{
+							min-width: 255px;
+						}
+					}
+					&:nth-child(3){
+						.text,.texto{
+							min-width: 210px;
+						}
+					}
+					&.carrinho{
+						padding-left: 2px;
+						>.icone{
+							display: block;
+							margin-left: 40%;
+						}
+
+					}
+					> .icone{
+						display: none;
+					}
+					.text,.texto{
+						display: inline-block;
+						border: 1px solid #521844;
+						padding: 5px 10px;
+					    display: block;
+					    position: absolute;
+					    left: -1px;
+					    top: 9px;
+					    background: #FFF;
+					    z-index: 9;
+					    font-size: 12px;
+
+						.icone{
+							width: 16px;
+							height: 16px;
+							display: inline-block;
+							background-repeat: no-repeat;
+							background-position: center;
+							background-size: contain;
+							margin-right: 5px;
+							float: left;
+						}
+						>div{
+							display: inline-block;
+							color: #521844;
+							a{
+								color: #521844;
+							}
+							p{
+								margin-bottom: 0px;
+							}
+						}
+					}
+				}
+				&.minha-conta{
+					.icone{
+						background-image: url('http://www.bestofbeauty.com.br/Arquivos/user.png');
+					}
+					span{
+						.icone{
+							background-image: url('http://www.bestofbeauty.com.br/Arquivos/user-roxo.png');
+						}
+					}
+				}
+				&.whatsapp{
+					.icone{
+						background-image: url('http://www.bestofbeauty.com.br/Arquivos/sac-logo2.png');
+					}
+					span{
+						.icone{
+							background-image: url('http://www.bestofbeauty.com.br/Arquivos/sac-logo-roxo.png');
+						}
+					}
+				}
+				&.whatsapp2{
+					.icone{
+						background-image: url('http://www.bestofbeauty.com.br/Arquivos/whatsapp-logo.png');
+					}
+
+					&:hover{
+						span.texto{
+							width: 195px;
+						}
+					}
+					span{
+						.icone{
+							background-image: url('http://www.bestofbeauty.com.br/Arquivos/whatsapp-logo-roxo.png');
+						}
+					}
+				}
+				&.televendas{
+					.icone{
+						background-image: url('http://www.bestofbeauty.com.br/Arquivos/phone-receiver.png');
+					}
+					span{
+						.icone{
+							background-image: url('http://www.bestofbeauty.com.br/Arquivos/phone-receiver-roxo.png');
+						}
+					}
+				}
+				> .icone{
+					margin-top: 10px;
+					width: 16px;
+					height: 16px;
+					display: block;
+					background-repeat: no-repeat;
+					background-position: center;
+					background-size: contain;
+					margin-right: 33%;
+				}
+				.text, .texto{
+					display: none;
+				}
+
+			}
+		}
+	}
+	.menu-topo{
+		background: #521844;
+		.navbar-nav{
+			text-align: center;
+		    margin: auto;
+		    float: none;
+		    width: auto;
+		    display: table;
+		    width: 100%;
+		    > li{
+		    	float: none;
+    			display: table-cell;
+    			position: relative;
+	
+    			&:last-child{
+    				background: darken(#521844,5%);
+    				a{
+    					border-right: 0px;
+    					color: #FFCA25;
+    					font-weight: 600;
+    				}
+    			}
+    			a{
+    				color: #FFF;
+    				color: #FFF;
+    				border-right: 1px solid rgba(255,255,255,0.2);
+    			}
+    			&:hover{
+    				.dropdown-menu{
+    					border-top: 2px solid lighten(#521844,5%);
+						display: block;
+						padding-top: 0px;
+						li{
+							display: block;
+							border-bottom: 1px solid #f1f1f1;
+							line-height: 30px;
+							a{
+								font-size: 13px;
+							    line-height: 25px;
+							    color: #333;
+							}
+							&:last-child{
+								border-bottom: 0px;
+							}
+						}
+    				}
+    			}
+    			> a{
+    				&:hover{
+    					background-color: lighten(#521844,5%);
+    					color: #FFF;
+    				}
+    			}
+		    }
+		}
+	}		
+}
+.pw-menu-mobile{
+	display: none;
+}
+.quem-somos > .container{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+@media (min-width: 1200px){
+	body.resultado-busca .container .filtros-topo .itens-encontrados{
+		display: none;
+	}
+	body.resultado-busca .container .filtros-topo .ordenar .orderBy label, body.departamento .container .filtros-topo .ordenar .orderBy label{
+		font-size: 13px;
+		float: none;
+
+	}
+	body.resultado-busca .container .filtros-topo .itens-por-pagina select, body.resultado-busca .container .filtros-topo .ordenar select, body.departamento .container .filtros-topo .itens-por-pagina select, body.departamento .container .filtros-topo .ordenar select{
+		float: none;
+	}
+	body.produto .container .product_brand_top .brandName a{
+		padding: 0px;
+	}
+	body.categoria .container .filtros-topo .itens-por-pagina select,body.categoria .container .filtros-topo .ordenar select{
+		float: none;
+	}
+	body.home section.newsletter-miolo {
+	    padding-bottom: 15px;
+	}
+	body.home section.newsletter-miolo .container .newsletter fieldset input[type=button], body.home section.newsletter-miolo .container .newsletter fieldset input[type=text]{
+		margin-top: 10px;
+	}
+	body.home section.newsletter-miolo .container .newsletter fieldset input.newsletter-client-email{
+		margin-right: 25px;
+	}
+	body.home .container .home-shelf ul li{
+		margin-bottom: 0px;
+		padding: 10px;
+	}
+	body.home .container .carrossel ul li .box-item .foo-item a, body.home .container .home-shelf ul li .box-item .foo-item a{
+		display: block;
+	}
+	.slideshow-home{
+		img{
+			max-width: 100%;
+		}
+	}
+	
+}
+@media (max-width: 500px){
+	body.produto.mobile{
+		padding-top: 100px;
+
+		#include{
+			margin-top: 0px;
+		}
+		.info-produto-topo{
+			padding-left: 0px;
+			padding-right: 0px;
+		}
+		.referencia{
+			display: none;
+		}
+		.preco-a-vista{
+			display: none !important;
+		}
+		.descricao-curta + .col-xs-12{
+			padding-right: 0px;
+			padding-left: 0px;
+		}
+		.preco-produto{
+			margin-top: 15px;
+			padding-top: 15px;
+			border-top: 1px solid #f1f1f1;
+		}
+		.best-delivery{
+			margin-bottom: 15px;
+		}
+		.agv-tabs-mobile .panel-heading h4{
+			font-size: 12px;
+		}
+	}
+	body.categoria .navigation-tabs .menu-departamento .menu-navegue{
+		display: none;
+	}
+	body.produto .container .avaliacao .rating li, body.produto .container .avaliacao .rating, body.produto .container .avaliacao .media{
+		display: block !important;
+		width: 100% !important;
+		margin: auto;
+		margin-bottom: 5px;
+	}
+	.container .avg-colecao-qvvt ul li{
+		height: auto;
+	}
+	.prateleira.vitrine.carrossel {
+	    li{
+	    	.add{
+	    		a{
+	    			color: #fff;
+				    padding: 1rem;
+				    border-radius: 2px;
+				    font-weight: 600;
+				    text-transform: uppercase;
+				    display: block;
+				    background: #551746;
+				    width: 90%;
+    				margin: auto;
+	    		}
+	    	}
+	    }
+	}
+	.faixa-beneficios{
+		display: none;
+	}
+	.slideshow-home .box-banner a{
+		display: block;
+    	height: 250px;
+    	background-size: cover;
+    	background-position: center;
+    	background-repeat: no-repeat;
+	}
+	body.departamento .container .filtros-topo .itens-por-pagina select{
+		margin-top: 7px !important;
+		width: 155px !important;
+	}
+	.container .resultItemsWrapper .prateleira ul li{
+		text-align: center;
+
+		.old-price{
+			text-decoration: line-through;
+			font-size: 12px;
+		}
+	}
+	body.home section.newsletter-miolo .container .txt{
+		float: none;
+		width: 100%;
+		text-align: center;
+	}
+	body.home section.newsletter-miolo .container{
+		max-width: 100%;
+	}
+
+}
+body.produto .container .conteudo-produto-topo .info-produto-topo .parcelas{
+	display: none;
+}
+body.categoria .navigation-tabs .menu-departamento, body.categoria .navigation .menu-departamento, body.departamento .container .filtro-lateral .navigation-tabs .menu-departamento {
+	    border: 1px solid #521843;
+	}
+	.search-single-navigator h3, .search-single-navigator h4, .search-single-navigator h5, body.categoria .container .filtro-lateral .navigation-tabs .menu-departamento .search-single-navigator h3, body.categoria .container .filtro-lateral .navigation-tabs .menu-departamento .search-single-navigator h4, body.categoria .container .filtro-lateral .navigation-tabs .menu-departamento .search-single-navigator h5, body.resultado-busca .container .filtro-lateral .navigation .menu-departamento h3, body.departamento .container .filtro-lateral .navigation-tabs .menu-departamento .search-single-navigator h3, body.departamento .container .filtro-lateral .navigation-tabs .menu-departamento .search-single-navigator h4, body.departamento .container .filtro-lateral .navigation-tabs .menu-departamento .search-single-navigator h5{
+	    background: #f1f1f1;
+	    margin-top: 0px;
+	    margin-bottom: 1px;
+	    padding: 10px 15px;
+	    font-size: 12px;
+	    
+	}
+	.menu-departamento .search-single-navigator ul{
+		padding: 0px 15px;
+	}
+	body.resultado-busca .container .filtro-lateral .navigation .menu-departamento .search-single-navigator > h3{
+		border-top: 1px solid #CCC;
+	    margin-top: 0px;
+   		 padding-top: 15px;
+	}
+	body.resultado-busca .container .filtro-lateral .navigation .menu-departamento ul li, .search-single-navigator ul li{
+		padding: 5px 0px;
+	}
+	body.resultado-busca .container .filtro-lateral .navigation .menu-departamento h3{
+		font-weight: 800;
+    text-transform: uppercase;
+	}
+.filtro-lateral{
+	> h3{
+		background: #521843;
+	    margin-bottom: 0px;
+	    padding: 10px 15px;
+	    color: #FFF;
+	    font-size: 14px;
+	    border: 1px solid #521843;
+        border-top-left-radius: 3px;
+        border-top-right-radius: 3px;
+	}
+}
+
+.search-single-navigator a:hover{
+	color: #521843 !important;
+}
+body.produto .container .btn-comprar a{
+	background: #521844;
+    text-align: center;
+    margin-top: 13px;
+    padding: 12px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 100;
+    font-size: 22px;
+    letter-spacing: -1px;
+}
+.agdv-product-review{
+	margin: 30px 15px 0px 15px;
+	> h3{
+		margin-top: 10px;
+	    margin-bottom: 15px;
+	    text-transform: uppercase;
+	    font-weight: 300;
+	    color: #521844;
+	    border-bottom: 1px solid #521844;
+	    padding-bottom: 10px;
+	}
+
+}
+#opiniao_de_usuario{
+	.user-review{
+		h4{
+			display: none;
+		}
+	}
+}
+body.produto .container .avaliacao{
+	float: none !important;
+	width: 100% !important;
+	display: table !important;
+
+	.media{
+		display: inline-block;
+		width: 208px;
+		text-align: center;
+		vertical-align: top;
+		border: 1px solid #f1f1f1;
+    	padding: 10px;
+    	margin-right: 20px;
+    	background: #fafafa;
+    	height: 85px;
+    	> span{
+		    font-weight: 600;
+		    color: #521844;
+		    font-size: 12px;
+		    text-transform: uppercase; 
+		    em{
+		    	
+		    	span{
+		    		font-size: 12px;
+		    	}
+		    }
+    	}
+	}
+	.rating{
+		width: calc(100% - 228px);
+		display: inline-block;
+		float: none !important;
+		vertical-align: top;
+		
+		li{
+			display: inline-block;
+			width: 19%;
+			text-align: center;
+			border: 1px solid #f1f1f1;
+    		padding: 10px;
+			.voteRatingStar{
+				float: none !important;
+			}
+			.voteRatingBar{
+				float: none !important;
+				width: 100% !important;
+			    border: 0px !important;
+    			height: 5px !important;
+    			margin: auto !important;
+    			overflow: hidden;
+    			span{
+    				display: block;
+    				height: 5px;
+    				background: #521844;
+    			}
+
+			}
+			span{
+				font-size: 12px;
+			}
+		}
+
+		+ p {
+			display: table !important;
+			width: 100% !important;
+			float: none !important;
+		}
+	}
+	.avalie-produto{
+		display: none !important;
+	}
+}
+strong{
+	&.avaliacao10{
+		background-position: 0px -17px !important;
+	}
+	&.avaliacao20{
+		background-position: 0px -50px !important;
+	}
+	&.avaliacao30{
+		background-position: 0px 47px !important;
+	}
+	&.avaliacao40{
+		background-position: 0px 30px !important;
+	}
+	&.avaliacao50{
+		background-position: 0px 13px !important;
+	}
+}
+.avaliacao10, .a10{
+	background-position: 0px -17px !important;
+}
+.avaliacao20, .a20{
+	background-position: 0px -50px !important;
+}
+.avaliacao30, .a30{
+	background-position: 0px 47px !important;
+}
+.avaliacao40, .a40{
+	background-position: 0px 30px !important;
+}
+.avaliacao50, .a50{
+	background-position: 0px 13px !important;
+}
+#lnkPubliqueResenha{
+    width: 208px;
+    display: block;
+    margin-top: 0px;
+    font-size: 13px;
+    margin: auto;
+    font-weight: 300;
+}
+body.produto .container .avaliacao #ulPubliqueResenha{
+	width: 100% !important;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #f1f1f1;
+}
+body.produto .container .avaliacao ul.resenhas{
+	width: 100% !important;
+	float: none;
+	display: table;
+    position: relative;
+
+	
+    li{
+		border: 1px solid #ddd;
+		padding: 15px;
+		border-radius: 5px;
+		margin-bottom: 20px;
+		.quem{
+		    display: inline-block;
+			width: 23%;
+			vertical-align: top;
+		    border-right: 1px dotted #ccc;
+		    margin-right: 2%;
+		}
+		.rating-wrapper{
+			strong{
+				display: none;
+			}
+		}
+		.dados{
+			strong{
+				font-weight: 600 !important;
+			    font-size: 18px;
+    			color: #521844;
+			    line-height: 22px;
+			}
+			.cidade-resenha, .email-resenha{
+				font-size: 11px;
+			    line-height: 16px;
+			    margin: auto;
+			    display: block;
+			}
+		}
+    	.util{
+    		display: none;
+    	}
+    }
+}
+.agdv-product-review .best-product-rate .quem>li>.opt-texto{
+	background: #f1f1f1;
+    line-height: 1.5;
+    border: 0px;
+    font-size: 14px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    display: inline-block;
+    width: 74%;
+    vertical-align: top;
+    margin-top: 0px;
+}
+body.produto .container .best-product-rate .user-review{
+	height: auto !important;
+}
+body.produto .container #publishUserReview{
+    display: table;
+    text-align: right;
+    width: 100%;
+    float: none;
+    position: relative;
+    clear: both;
+    bottom: initial;
+    background: #fafafa;
+    padding: 20px;
+    .formUserComment{
+    	h2{
+    		text-align: center;
+			display: none;
+    		+ p{
+    			text-align: center;
+    			text-transform: uppercase;
+    		}
+    	}
+    }
+    .ranking{
+    	display: inline-block;
+    	vertical-align: top;
+    	width: 49%;
+    	.opiniaoInfo{
+    		text-align: left;
+		    font-size: 12px;
+		    color: #666;
+    	}
+
+    	ul{
+    		.opiniaoRating{
+    			text-align: left;
+    			.ratingTitulo{
+    				margin-bottom: 8px;
+    			}
+    			.ratingTitulo + div{
+					label{
+						display: none;
+					}
+					a{
+
+					}
+    			}
+    		}
+    	}
+    }
+    .opiniao{
+    	display: inline-block;
+    	padding-right: 15px;
+    	width: 49%;
+    	vertical-align: top;
+	    
+
+    	.fComentario, .fTitulo, .fDivulgaEmail{
+    		display: block;
+    		width: 100%;
+    		margin-top: 0px !important;
+    		vertical-align: top;
+    		margin-left: -15px !important;
+    		margin-bottom: 0px !important;
+
+    		textarea, input[type=text], {
+    			width: 100%;
+    			background: #FFF;
+    			border: 1px solid #ccc;
+    			font-size: 12px;
+    			margin-bottom: 10px !important;
+
+    		}
+    	}
+    	.fComentario, .fTitulo{
+    		label{
+			    margin-bottom: 0px;
+			    font-size: 12px;
+			    text-transform: uppercase;
+    		}
+    		textarea + span, input + span{
+    			display: none;
+    		}
+    	}
+    	#chkShowUserEmail{
+    		display: none;
+    	}
+    	.fDivulgaEmail{
+    		input:checked ~ label{
+    			&:after{
+					z-index: 9;
+					content: '';
+					width: 6px;
+					height: 6px;
+					background: #521844;
+					top: 50%;
+					left: 15px;
+					position: absolute;
+					top: 11px;
+    				left: 14px;
+    			}
+    		}
+    		label{
+    			padding: 5px;
+    			border: 1px solid #ccc;
+    			font-size: 12px;
+    			position: relative;
+    			padding-left: 30px;
+    			&:before{
+					z-index: 9;
+					content: '';
+					width: 10px;
+					height: 10px;
+					border: 1px solid #ccc;
+					background: #FFF;
+					top: 50%;
+					left: 15px;
+					position: absolute;
+					top: 9px;
+    				left: 12px;
+    			}
+    		}
+    	}
+    }
+}
+body.produto .container #formUserReview .header h2{
+    border-bottom: 1px solid #521844;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    font-weight: 300;
+}
+body.produto .container #publishUserReview .opiniao .fComentario textarea{
+	height: 50px;
+}
+body.produto .container #formUserReview p.aviso-resenha{
+	background: #f1f1f1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    font-size: 11px;
+    margin-top: 20px;
+    border-radius: 5px;
+    display: table;
+    width: 100%;
+    margin-bottom: 25px;
+    line-height: 12px;
+    color: #888;
+}
+body.produto .container #publishUserReview .ranking ul .opiniaoRating .emptyRatingStar, body.produto .container #publishUserReview .ranking ul .opiniaoRating .filledRatingStar{
+	overflow: hidden;
+	text-indent: -999px;
+    font-size: 0;
+    line-height: 0;
+    color: transparent;
+}
+body.produto .container #publishUserReview .ranking ul .opiniaoRating .emptyRatingStar:before{
+    font-family: FontAwesome;
+    font-size: 26px;
+    line-height: 26px;
+    color: #F0AD4E;
+    font-style: normal;
+    content: "\f006";
+    text-decoration: none;
+    -webkit-transition: .300s all;
+    transition: .300s all;
+}
+body.produto .container #publishUserReview .ranking ul .opiniaoRating .filledRatingStar:before {
+	font-family: FontAwesome;
+    font-size: 26px;
+    line-height: 26px;
+    color: #F0AD4E;
+    font-style: normal;
+    content: "\f005";
+    text-decoration: none;
+    -webkit-transition: .300s all;
+    transition: .300s all;
+}
+#formUserReview .content .avaliar{
+	display: table;
+	width: 100%;
+	a{
+	    background: #521844;
+	    text-align: center;
+	    margin-top: 13px;
+	    padding: 12px;
+	    color: #fff;
+	    text-transform: uppercase;
+	    font-weight: 600;
+	    font-size: 1.6rem;
+	    font-size: 14px;
+	    font-weight: 300;
+	    padding: 10px 25px;
+	    border-radius: 3px;
+	    position: relative;
+	    display: block;
+	    width: 20%;
+	    margin: auto;
+	    margin-bottom: 0px;
+	    margin-right: 0px;
+	}
+}
+body.produto .container .conteudo-produto-topo .info-produto-topo .avaliacao-geral{
+	display: none;
+}
+.pw-footer{
+	background-color: #ede6ed;
+	border-top: 10px solid #511843;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	.pagamento-certificados{
+		img{
+			max-width: 100%;
+		}
+	}
+	.show-room{
+		ul{
+			li{
+
+			}
+		}
+	}
+	ul{
+		
+		padding: 0px;
+		margin-bottom: 50px;
+		li{
+			color: #511843;
+			height: auto;
+			margin-bottom: 5px;
+			font-size: 13px;
+			line-height: 22px;
+			&:first-child{
+				text-transform: uppercase;
+				margin-bottom: 10px;
+				font-weight: 600;
+			}
+			a{
+				color: #511843;
+			}
+		}
+	}
+	.redes-sociais{
+		li{
+			&:first-child{
+				display: block;
+			}
+			&.rede{
+			    background-color: #511843;
+			    color: #ede6ed;
+			    width: 35px;
+			    height: 35px;
+			    border-radius: 100%;
+			    display: inline-block;
+			    margin-right: 5px;
+			    font-size: 18px;
+			    text-align: center;
+			    line-height: 35px;
+			    a{
+			    	color: #ede6ed;
+			    }
+			}
+		}
+	}
+	.copy{
+		font-size: 12px;
+		color: #511843;
+		font-weight: 400; 
+	}
+}
+.pr10{
+	padding-right: 0px;
+}
+.pl0{
+	padding-left: 0px;
+}
+.pw-corpo{
+	height: 1000px;
+	background: #f1f1f1;
+}
+.pw-header-fixo{
+	width: 100%;
+	position: fixed;
+	height: 70px;
+	padding: 15px 0px;
+	border-bottom: 1px solid #511843;
+	background-color: #fafafa;
+	left: 0px;
+	top: 0px;
+	display: none;
+    z-index: 99;
+	.logo a{
+		text-indent: -999px;
+
+		overflow: hidden;
+	    background: url(http://bestofbeauty.vteximg.com.br/arquivos/logo.png);
+	    width: 100%;
+	    height: 40px;
+	    background-repeat: no-repeat;
+	    background-size: contain;
+	    display: block;
+	    margin: auto;
+	    background-position: left center;
+	    a{
+	    	display: block;
+	    	text-indent: -999px;
+	    }
+	}
+	.busca{
+		
+			.busca{
+				position: relative;
+				legend, label, select{
+					display: none;
+				}
+				.fulltext-search-box{
+					width: 100%;
+					height: 35px;
+					border: 1px solid #511843;
+					padding: 0px 10px;
+					&:focus{
+				    		outline: none;
+				    		box-shadow: none;
+				    	}
+				}
+				.btn-buscar{
+					height: 30px;
+					width: 30px;
+					overflow: hidden;
+					text-indent: -999px;
+					border: 0px;
+					background-color: transparent;
+					font-size: 0;
+				    background: url(http://www.bestofbeauty.com.br/arquivos/sprite.png) -234px -68px no-repeat;
+				    border: 0;
+				    width: 40px;
+				    height: 35px;
+				    position: absolute;
+				    right: 0;
+				    top: 0;
+				}
+			}
+		
+	}
+	.minha-conta{
+			margin-top: 10px;
+			width: 16px;
+			height: 16px;
+			display: block;
+			background-repeat: no-repeat;
+			background-position: center;
+			background-size: contain;
+			background-image: url('http://www.bestofbeauty.com.br/Arquivos/user.png');
+		    margin-left: auto;
+			margin-right: auto;
+	}
+	.carrinho{
+		.icone{
+			margin-top: 10px;
+			width: 16px;
+			height: 16px;
+			display: block;
+			background-repeat: no-repeat;
+			background-position: center;
+			background-size: contain;
+			background-image: url('http://www.bestofbeauty.com.br/Arquivos/cart-of-ecommerce.png');
+			    margin-left: 0;
+    			margin-right: auto;
+		}
+		.cart-info{
+			display: block;
+			width: 20px;
+		    height: auto;
+		    background: red;
+		    text-align: center;
+		    border-radius: 100%;
+		    line-height: 14px;
+		    background: #561d46;
+		    border: 1px solid #FFF;
+		    padding: 0px;
+	        position: absolute;
+		    top: 0px;
+		    left: 12px;
+			.amount-items, .amount-kits, .total-cart{
+				display: none;
+
+			}
+			.amount-products{
+			    padding: 0px;
+			    width: auto;
+			    height: auto;
+			    display: block;
+			    color: #FFF;
+				strong{
+					display: none;
+				}
+				.amount-products-em{
+					font-weight: 400;
+					font-style: normal;
+					font-size: 9px;
+				}
+			}
+		}
+	}
+}
+#ajaxBusy{
+    position: fixed;
+    background: #561d46;
+    color: #FFF;
+    padding: 5px 15px;
+    font-size: 12px;
+    p{
+    	margin-bottom: 0px;
+    }
+}
+@media only screen and (max-width: 768px) {
+	.slideshow-home-mobile{
+		display: block;
+		margin-top: 100px;
+	}
+	.slideshow-home{
+		display: none;
+	}
+	.categoria.mobile{
+		.filtro-lateral{
+			margin-top: 20px;
+		}
+	}
+	.departamento.mobile{
+	    padding-top: 100px;
+	}
+	body.departamento .container .filtros-topo .itens-encontrados, body.departamento .container .filtros-topo .ordenar{
+		font-size: 12px;
+		margin-bottom: 0px;
+	}
+    .pw-header-fixo, .pw-header{
+    	display: none !important;
+    }
+    .pl0 {
+	    padding-left: 15px;
+	}
+	.pr10 {
+	    padding-right: 15px;
+	}
+	.pw-busca-mobile{
+		position: absolute;
+		top: 50px;
+		left: 0px;
+		width: 100%;
+		background-color: darken(#561d46,10%);
+		height: auto;
+		padding: 10px 0px;
+		display: block;
+		z-index: 999;
+		.busca{
+			position: relative;
+			select, label, legend{
+				display: none;
+			}
+			.fulltext-search-box{
+				width: 100%;
+				padding: 3px 7px;
+			}
+			.btn-buscar{
+				width: auto;
+				position: absolute;
+				right: 8px;
+				top: 2px;
+				color: #561d46;
+				border: 0px;
+				background-color: transparent;
+				font-size: 13px;
+    			font-weight: 600;
+    			height: 26px;
+			}
+		}
+	}
+	.pw-header-mobile{
+		position: fixed;
+		top: 0px;
+		left: 0px;
+		width: 100%;
+		display: block;
+		background-color: #561d46;
+		height: 50px;
+		z-index: 20;
+		z-index: 9999;
+
+		.logotipo{
+			img{
+				max-width: 100%;
+				height: auto;
+			}
+
+		}
+		span{
+			text-align: left;
+		}
+		a{
+			text-align: right;
+		}
+		span,a{
+				display: block;
+				color: #FFF;
+				font-size: 16px;
+				height: 50px;
+    			line-height: 50px;
+			}
+	}
+	.pw-menu-mobile{
+		position: fixed;
+		display: none;
+		width: 100%;
+		background-color: rgba(0,0,0,0.8);
+		height: 100%;
+		z-index: 99999;
+		top: 50px;
+		.menu{
+			float: left;
+			width: 75%;
+			background-color: #FFF;
+			overflow-y: scroll;
+			height: 100%;
+			background: #fafafa;
+			margin-left: -100%;
+			> li{
+				border-bottom: 1px solid #f1f1f1;
+				padding: 7px 0px 7px 10px ;
+				position: relative;
+				&.has-child{
+					&:after{
+						position: absolute;
+					    content: '+';
+					    width: 40px;
+					    height: 100%;
+					    border-left: 1px solid #f1f1f1;
+					    color: #999;
+					    right: 5px;
+					    text-align: center;
+					    top: 0px;
+					    font-weight: 600;
+					    line-height: 34px;
+					    color: #561d46;
+					}
+				}
+				.sub-menu{
+					background: #FFF;
+	    			padding: 5px 10px;
+				    position: relative;
+	    			z-index: 3;
+	    			margin-left: -10px;
+	    			margin-top: 5px;
+	    			margin-bottom: -7px;
+	    			padding-top: 0px;
+	    			display: none;
+	    			li{
+	    				border-bottom: 1px solid #f1f1f1;
+	    				line-height: 30px;
+	    				color: #666;
+	    				a{
+	    					font-size: 13px;
+	    					color: #777;
+	    				}
+	    				&:last-child{
+	    					border-bottom: 0px;
+	    				}
+	    			}
+				}
+				
+				a{
+					color: #561d46;
+					font-size: 14px;
+				}
+			}
+		}
+		.fechar{
+			width: 25%;
+			float: right;
+			text-align: center;
+			color: #FFF;
+			font-size: 22px;
+		}
+	}
+}
+
+.no-scroll{
+	overflow-y: hidden;
+}
+.topo-menus header nav.navbar-inverse .links-menu ul.navbar-nav li a{
+	padding: 5px 8px;
+}
+.topo-menus header nav.navbar-inverse .links-menu ul.navbar-nav li a strong{
+	color: #601143;
+}
+@media (min-width: 1000px){
+	.topo-menus header nav.navbar-inverse .links-menu ul.navbar-nav{
+		display: table;
+		width: 100%;
+	}
+	.login, .topo-menus header nav.navbar-inverse .links-menu ul.navbar-nav li{
+		float: none;
+		display: table-cell;
+		text-align: center;
+	}	
+	.topo-menus header nav.navbar-inverse .links-menu ul.navbar-nav li.oferta-nav{
+		width: auto;
+	}
+}
+
+.faixa-beneficios{
+	background-color: #561d46;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #FFF;
+    font-size: 12px;
+    text-align: center;
+    font-weight: 300;
+    img{
+    	height: 18px;
+    	width: auto;
+    	margin-right: 5px;
+    	vertical-align: top;
+	    display: inline-block;
+    }
+}
+.slideshow-home{
+	.owl-controls{
+		margin-top: -27px;
+		position: relative;
+		z-index: 9;
+	}
+}
+#agv-bt-left-tab .tab-content #lS li{
+	background: #FFFFFF !important;
+}
+#lS{
+	img{
+		margin: auto;
+	}
+	h1{
+		text-align: center;
+	}
+	center{
+		strong{
+			font-size: 20px;
+			display: block;margin-bottom: 10px;
+		}
+	}
+	ul{
+		li{
+			background: #FFFFFF !important;
+		}
+	}
+	p{
+		font-size: 14px;
+    	line-height: 22px;
+	}
+}
+@media (min-width: 992px){
+	body.home section.newsletter-miolo .container{
+		width: 1140px !important;
+	}
+	.container {
+	    width: 1070px !important;
+	}	
+	body.home .container .home-shelf ul li {
+	    width: 20%;
+	    float: left;
+	    height: 440px;
+	    margin: 0 26px 25px;
+	    padding: 10px 20px 20px;
+	    display: table;
+	    border: 1px solid #FFF;
+	}
+}
+

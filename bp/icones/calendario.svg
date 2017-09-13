@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="623 1400 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="small-calendar" transform="translate(621 1400)">
+    <g id="calendar_1_" transform="translate(2)">
+      <path id="path" class="cls-1" d="M18.334,1.875H15.625V.625a.625.625,0,0,0-1.25,0v1.25h-3.75V.625a.625.625,0,0,0-1.25,0v1.25H5.625V.625a.625.625,0,0,0-1.25,0v1.25H1.667A1.666,1.666,0,0,0,0,3.541V18.333A1.667,1.667,0,0,0,1.667,20H18.334A1.666,1.666,0,0,0,20,18.333V3.541A1.666,1.666,0,0,0,18.334,1.875Zm.416,16.458a.417.417,0,0,1-.416.417H1.667a.417.417,0,0,1-.417-.417V3.541a.417.417,0,0,1,.417-.416H4.375v1.25a.625.625,0,0,0,1.25,0V3.125h3.75v1.25a.625.625,0,0,0,1.25,0V3.125h3.75v1.25a.625.625,0,0,0,1.25,0V3.125h2.709a.417.417,0,0,1,.416.416Z"/>
+      <rect id="rectangle" class="cls-1" width="2.5" height="1.875" transform="translate(4.375 7.5)"/>
+      <rect id="rectangle-2" data-name="rectangle" class="cls-1" width="2.5" height="1.875" transform="translate(4.375 10.625)"/>
+      <rect id="rectangle-3" data-name="rectangle" class="cls-1" width="2.5" height="1.875" transform="translate(4.375 13.75)"/>
+      <rect id="rectangle-4" data-name="rectangle" class="cls-1" width="2.5" height="1.875" transform="translate(8.75 13.75)"/>
+      <rect id="rectangle-5" data-name="rectangle" class="cls-1" width="2.5" height="1.875" transform="translate(8.75 10.625)"/>
+      <rect id="rectangle-6" data-name="rectangle" class="cls-1" width="2.5" height="1.875" transform="translate(8.75 7.5)"/>
+      <rect id="rectangle-7" data-name="rectangle" class="cls-1" width="2.5" height="1.875" transform="translate(13.125 13.75)"/>
+      <rect id="rectangle-8" data-name="rectangle" class="cls-1" width="2.5" height="1.875" transform="translate(13.125 10.625)"/>
+      <rect id="rectangle-9" data-name="rectangle" class="cls-1" width="2.5" height="1.875" transform="translate(13.125 7.5)"/>
+    </g>
+  </g>
+</svg>

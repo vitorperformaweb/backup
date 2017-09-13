@@ -1,0 +1,229 @@
+/*
+Theme Name: brasilsolair
+Theme URI: http://underscores.me/
+Author: Vitor Avanço
+Author URI: http://www.vitor-avanco.com/
+Description: Tema desenvolvido para Brasilsolair
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: brasilsolair
+Tags:
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+brasilsolair is based on Underscores http://underscores.me/, (C) 2012-2016 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal http://necolas.github.io/normalize.css/
+*/
+@mixin radius($radius: 3px) {
+  -webkit-border-radius: $radius;
+  -moz-border-radius: $radius;
+  -ms-border-radius: $radius;
+  border-radius: $radius;
+}
+@mixin rotate($rotate: 45deg) {
+  -webkit-transform: rotate($rotate);
+  -moz-transform: rotate($rotate);
+  -o-transform: rotate($rotate);
+}
+@mixin anima() {
+  transition: All 300ms linear;
+  -webkit-transition: All 300ms linear;
+  -moz-transition: All 300ms linear;
+  -o-transition: All 300ms linear;
+}
+
+$laranja: #ff9c00;
+$roboto: 'Roboto', sans-serif;
+*{
+	font-family: $roboto;
+}
+header{
+	border-top: 3px solid $laranja;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background: #FFF;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.09), 0 6px 6px rgba(0,0,0,0.13);
+	position: relative;
+    z-index: 2;
+	.logotipo{
+		.site-title{
+			background-image: url('img/logo.png');
+			background-position: center;
+			background-size: contain;
+			background-repeat: no-repeat;
+			display: block;
+			margin: 0px;
+			max-width: 150px;
+			height: 60px;
+			a{
+				opacity: 0;
+				display: block;
+				height: 60px;
+			}
+
+		}
+	}
+	#primary-menu{
+		margin: 0px;
+		padding: 0px;
+		display: block;
+		margin-top: 20px;
+		li{
+			display: inline-block;
+			margin-left: 6%;
+			&.current_page_item{
+				a{
+					color: $laranja;
+				}
+			}
+			a{
+				font-family: $roboto;
+				color: #666;
+				font-weight: 500;
+				font-size: 12px;
+				text-transform: uppercase;
+				@include anima();
+				&:hover{
+					color: $laranja;
+					text-decoration: none;
+				}
+			}
+		}
+
+	}
+}
+#slideshow{
+	background: #f1f1f1;
+	display: block;
+	width: 100%;
+	min-height: 320px;
+	position: relative;
+	.owl-nav{
+		.owl-prev, .owl-next{
+			position: absolute;
+			top: 45%;
+			z-index: 9;
+			left: 20px;
+			color: #FFF;
+			font-size: 20px;
+			font-weight: 500;
+		}
+		.owl-prev{
+			@include anima();
+			&:hover{
+				left: 25px;
+			}
+		}
+		.owl-next{
+			right: 20px;
+			left: auto;
+			@include anima();
+			&:hover{
+				right: 25px;
+			}
+		}
+	}
+
+	.item{
+		display: table;
+		width: 100%;
+		height: auto;
+		min-height: 320px;
+
+		.box{
+			display: table-cell;
+			vertical-align: middle;
+			text-align: center;
+			color: #FFF;
+			
+			
+			.titulo{
+				font-size: 34px;
+				font-weight: 100;
+				text-transform: uppercase;
+				text-shadow: 1px 1px 10px rgba(0, 0, 0, 0.5);
+				line-height: 40px;
+			}
+			.subtitulo{
+				font-size: 36px;
+				font-weight: 400;
+				text-transform: uppercase;
+				text-shadow: 1px 1px 10px rgba(0, 0, 0, 0.5);
+				line-height: 40px;
+
+			}
+			.call{
+				display: block;
+				text-align: center;
+				margin-top: 65px;
+				a{
+					border: 1px solid #FFF;
+					padding: 12px 18px;
+					color: #FFF;
+					text-transform: uppercase;
+					font-weight: 300;
+					display: inline-block;
+					@include anima();
+					font-size: 16px;
+					&:hover{
+						text-decoration: none;
+						background: rgba(0,0,0,0.6);
+					}
+				}
+			}
+		}
+	}
+}
+footer{
+	background-color: $laranja;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	.linha{
+		width: 1px;
+		height: 113px;
+		background-color: #FFF;
+		display: block;
+		margin: auto;
+	}
+	.logo-social{
+		img{
+			max-width: 100%;
+		}
+		.social{
+			text-align: center;
+			margin-top: 20px;
+			a{
+				margin: 0 5px;
+			}
+		}
+	}
+	.endereco{
+		padding-top: 8px;
+		strong{
+			font-weight: 500;
+			text-transform: uppercase;
+			font-size: 12px;
+			color: #FFF;
+			margin-bottom: 6px;
+			display: block;
+		}
+		p{
+			margin-bottom: 3px;
+			font-size: 11px;
+			color: #FFF;
+			font-weight: 300;
+		}
+	}
+}
+.copyright{
+	text-align: center;
+	line-height: 40px;
+	color: #999;
+	font-size: 12px;
+	font-weight: 300;
+}

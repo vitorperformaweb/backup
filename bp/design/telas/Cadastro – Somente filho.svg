@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="1780 -786 375 667">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Cadastro_Somente_filho);
+      }
+
+      .cls-14, .cls-2, .cls-7 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #95989a;
+      }
+
+      .cls-10, .cls-2, .cls-4, .cls-7, .cls-8 {
+        stroke-width: 1px;
+      }
+
+      .cls-12, .cls-3 {
+        fill: #95989a;
+      }
+
+      .cls-3 {
+        font-size: 23px;
+      }
+
+      .cls-11, .cls-12, .cls-3, .cls-5, .cls-6, .cls-9 {
+        font-family: HelveticaNeue, Helvetica Neue;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-4, .cls-8 {
+        stroke: #ddd;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #999;
+      }
+
+      .cls-11, .cls-12, .cls-5 {
+        font-size: 12px;
+      }
+
+      .cls-6 {
+        font-size: 14px;
+      }
+
+      .cls-7 {
+        stroke: #ccc;
+      }
+
+      .cls-8 {
+        fill: #ddd;
+      }
+
+      .cls-11, .cls-9 {
+        fill: #666;
+      }
+
+      .cls-9 {
+        font-size: 13px;
+      }
+
+      .cls-10, .cls-15 {
+        fill: #f1f1f1;
+      }
+
+      .cls-10 {
+        stroke: #747474;
+      }
+
+      .cls-13 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-Cadastro_Somente_filho">
+      <rect x="1780" y="-786" width="375" height="667"/>
+    </clipPath>
+  </defs>
+  <g id="Cadastro_Somente_filho" data-name="Cadastro – Somente filho" class="cls-1">
+    <rect class="cls-15" x="1780" y="-786" width="375" height="667"/>
+    <g id="group-1" transform="translate(1731.215 -879.928)">
+      <g id="rectangle-2" class="cls-2" transform="translate(123.785 154.928)">
+        <rect class="cls-13" width="224.57" height="109.034"/>
+        <rect class="cls-14" x="0.5" y="0.5" width="223.57" height="108.034"/>
+      </g>
+      <text id="Logotipo" class="cls-3" transform="translate(190.785 217.928)"><tspan x="0" y="0">Logotipo</tspan></text>
+    </g>
+    <g id="rectangle-7" class="cls-4" transform="translate(1818 -528)">
+      <rect class="cls-13" width="300.5" height="35"/>
+      <rect class="cls-14" x="0.5" y="0.5" width="299.5" height="34"/>
+    </g>
+    <text id="E-mail" class="cls-5" transform="translate(1827 -506)"><tspan x="0" y="0">Nome da criança</tspan></text>
+    <text id="E-mail-2" data-name="E-mail" class="cls-6" transform="translate(1818 -551)"><tspan x="0" y="0">Sobre seu(s) filho(s)</tspan></text>
+    <line id="line-3" class="cls-7" x1="168" transform="translate(1950.5 -555.5)"/>
+    <g id="rectangle-7-2" data-name="rectangle-7" class="cls-8" transform="translate(1968 -308)">
+      <rect class="cls-13" width="151.5" height="40"/>
+      <rect class="cls-14" x="0.5" y="0.5" width="150.5" height="39"/>
+    </g>
+    <text id="E-mail-3" data-name="E-mail" class="cls-9" transform="translate(1985 -283)"><tspan x="0" y="0">Concluir o Cadastro</tspan></text>
+    <g id="rectangle-7-3" data-name="rectangle-7" class="cls-4" transform="translate(1817 -308)">
+      <rect class="cls-13" width="131.5" height="40"/>
+      <rect class="cls-14" x="0.5" y="0.5" width="130.5" height="39"/>
+    </g>
+    <text id="E-mail-4" data-name="E-mail" class="cls-9" transform="translate(1866 -283)"><tspan x="0" y="0">Voltar</tspan></text>
+    <g id="rectangle-7-4" data-name="rectangle-7" class="cls-4" transform="translate(1818 -475)">
+      <rect class="cls-13" width="141.495" height="35"/>
+      <rect class="cls-14" x="0.5" y="0.5" width="140.495" height="34"/>
+    </g>
+    <text id="E-mail-5" data-name="E-mail" class="cls-5" transform="translate(1827 -453)"><tspan x="0" y="0">Sexo da criança</tspan></text>
+    <g id="rectangle-7-5" data-name="rectangle-7" class="cls-4" transform="translate(1977.005 -475)">
+      <rect class="cls-13" width="141.495" height="35"/>
+      <rect class="cls-14" x="0.5" y="0.5" width="140.495" height="34"/>
+    </g>
+    <text id="E-mail-6" data-name="E-mail" class="cls-5" transform="translate(1986 -453)"><tspan x="0" y="0">Idade</tspan></text>
+    <g id="rectangle-7-6" data-name="rectangle-7" class="cls-10" transform="translate(1820 -395)">
+      <rect class="cls-13" width="301.5" height="27"/>
+      <rect class="cls-14" x="0.5" y="0.5" width="300.5" height="26"/>
+    </g>
+    <text id="E-mail-7" data-name="E-mail" class="cls-11" transform="translate(1918 -377)"><tspan x="0" y="0">Adicionar novo filho</tspan></text>
+    <text id="_." data-name="………." class="cls-12" transform="translate(1948 -411)"><tspan x="0" y="0">……….</tspan></text>
+    <text id="_.-2" data-name="………." class="cls-12" transform="translate(1948 -345)"><tspan x="0" y="0">……….</tspan></text>
+  </g>
+</svg>

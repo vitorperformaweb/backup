@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 -786 375 667">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Login);
+      }
+
+      .cls-13, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #95989a;
+      }
+
+      .cls-2, .cls-4, .cls-6 {
+        stroke-width: 1px;
+      }
+
+      .cls-10, .cls-3, .cls-8 {
+        fill: #95989a;
+      }
+
+      .cls-3 {
+        font-size: 23px;
+      }
+
+      .cls-10, .cls-3, .cls-5, .cls-8 {
+        font-family: HelveticaNeue, Helvetica Neue;
+      }
+
+      .cls-4, .cls-7, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        stroke: #ddd;
+      }
+
+      .cls-5 {
+        fill: #999;
+        font-size: 12px;
+      }
+
+      .cls-6 {
+        fill: #ccc;
+        stroke: #ccc;
+      }
+
+      .cls-11, .cls-7 {
+        font-size: 14px;
+        font-family: HelveticaNeue-Medium, Helvetica Neue;
+        font-weight: 500;
+      }
+
+      .cls-8 {
+        font-size: 20px;
+      }
+
+      .cls-10 {
+        font-size: 13px;
+      }
+
+      .cls-12 {
+        stroke: none;
+      }
+
+      .cls-14 {
+        fill: #f1f1f1;
+      }
+    </style>
+    <clipPath id="clip-Login">
+      <rect y="-786" width="375" height="667"/>
+    </clipPath>
+  </defs>
+  <g id="Login" class="cls-1">
+    <rect class="cls-14" y="-786" width="375" height="667"/>
+    <g id="group-1" transform="translate(-48.785 -879.928)">
+      <g id="rectangle-2" class="cls-2" transform="translate(123.785 154.928)">
+        <rect class="cls-12" width="224.57" height="109.034"/>
+        <rect class="cls-13" x="0.5" y="0.5" width="223.57" height="108.034"/>
+      </g>
+      <text id="Logotipo" class="cls-3" transform="translate(190.785 217.928)"><tspan x="0" y="0">Logotipo</tspan></text>
+    </g>
+    <g id="rectangle-7" class="cls-4" transform="translate(38 -559)">
+      <rect class="cls-12" width="300" height="40"/>
+      <rect class="cls-13" x="0.5" y="0.5" width="299" height="39"/>
+    </g>
+    <text id="E-mail" class="cls-5" transform="translate(54 -535)"><tspan x="0" y="0">E-mail</tspan></text>
+    <g id="rectangle-7-2" data-name="rectangle-7" class="cls-4" transform="translate(38 -510)">
+      <rect class="cls-12" width="300" height="40"/>
+      <rect class="cls-13" x="0.5" y="0.5" width="299" height="39"/>
+    </g>
+    <text id="E-mail-2" data-name="E-mail" class="cls-5" transform="translate(54 -486)"><tspan x="0" y="0">Senha</tspan></text>
+    <g id="rectangle-7-3" data-name="rectangle-7" class="cls-6" transform="translate(38 -460)">
+      <rect class="cls-12" width="300" height="40"/>
+      <rect class="cls-13" x="0.5" y="0.5" width="299" height="39"/>
+    </g>
+    <text id="E-mail-3" data-name="E-mail" class="cls-7" transform="translate(188 -435)"><tspan x="-26.075" y="0">Acessar</tspan></text>
+    <text id="_._" data-name="…….…" class="cls-8" transform="translate(155 -388)"><tspan x="0" y="0">…….…</tspan></text>
+    <g id="rectangle-7-4" data-name="rectangle-7" class="cls-6" transform="translate(38 -365)">
+      <rect class="cls-12" width="300" height="40"/>
+      <rect class="cls-13" x="0.5" y="0.5" width="299" height="39"/>
+    </g>
+    <g id="group-9" transform="translate(16 -816)">
+      <text id="E-mail-4" data-name="E-mail" class="cls-7" transform="translate(188 477)"><tspan x="-82.362" y="0">Acessar com o Facebook</tspan></text>
+      <g id="facebook-logo-button" transform="translate(54 459)">
+        <g id="group" transform="translate(19)">
+          <path id="path" class="cls-9" d="M12.5,0A12.5,12.5,0,1,0,25,12.5,12.514,12.514,0,0,0,12.5,0Zm3.109,12.94H13.575v7.248H10.562V12.94H9.129V10.378h1.432V8.721A2.826,2.826,0,0,1,13.6,5.68l2.233.009V8.175H14.215a.614.614,0,0,0-.639.7v1.505h2.3Z"/>
+        </g>
+      </g>
+    </g>
+    <text id="_._2" data-name="…….…" class="cls-8" transform="translate(155 -288)"><tspan x="0" y="0">…….…</tspan></text>
+    <text id="É_o_seu_primeir" data-name="É o seu primeir" class="cls-10" transform="translate(188 -246)"><tspan x="-73.32" y="0">É o seu primeiro acesso?</tspan><tspan class="cls-11"><tspan x="-55.377" y="17">Cadastre-se aqui</tspan></tspan></text>
+  </g>
+</svg>

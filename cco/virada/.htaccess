@@ -1,0 +1,15 @@
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /cco/
+RewriteRule ^index\.php$ - [L]
+RewriteRule ^painel/?$ /cco/wp-login.php [QSA,L]
+RewriteRule ^painel/register/?$ /cco/wp-login.php?action=register [QSA,L]
+RewriteRule ^painel/lostpassword/?$ /cco/wp-login.php?action=lostpassword [QSA,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /cco/index.php [L]
+</IfModule>
+
+# END WordPress

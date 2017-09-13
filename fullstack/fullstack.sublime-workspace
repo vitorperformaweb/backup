@@ -1,0 +1,1207 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"prod",
+				"Produtos"
+			],
+			[
+				"lista",
+				"listaProdutos"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"fnu",
+				"function"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"produtos",
+				"produtosBanco"
+			],
+			[
+				"dbConn",
+				"dbConnection"
+			],
+			[
+				"ro",
+				"rotasProdutos"
+			],
+			[
+				"RO",
+				"rotasProdutos"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"utf",
+				"utf8_encode"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"lists",
+				"list-style"
+			],
+			[
+				"text-de",
+				"text-indent"
+			],
+			[
+				"border-ra",
+				"border-top-right-radius"
+			],
+			[
+				"bak",
+				"background-position"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"last",
+				"last-child"
+			],
+			[
+				"bacgr",
+				"background-position"
+			],
+			[
+				"border-le",
+				"border-top-left-radius"
+			],
+			[
+				"bacg",
+				"background-repeat"
+			],
+			[
+				"border-bo",
+				"border-bottom-right-radius"
+			],
+			[
+				"border-top-",
+				"border-top-right-radius"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"error",
+				"border-bottom-right-radius"
+			],
+			[
+				"first-",
+				"first-of-type"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"border-bott",
+				"border-bottom-right-radius"
+			],
+			[
+				"border-ri",
+				"border-right-color"
+			],
+			[
+				"auto",
+				"autocomplete"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"marg-",
+				"margin-left"
+			],
+			[
+				"fir-",
+				"first-of-type"
+			],
+			[
+				"first",
+				"first-of-type"
+			],
+			[
+				"backgorund",
+				"background-image"
+			],
+			[
+				"azul",
+				"azulClaro"
+			],
+			[
+				"backgrond",
+				"background-size"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"paddni",
+				"padding-top"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"ve",
+				"vermelho"
+			],
+			[
+				"ine",
+				"inline-block"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"margi-",
+				"margin-top"
+			],
+			[
+				"Hist",
+				"História"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"la",
+				"last-of-type"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"table-",
+				"table-cell"
+			],
+			[
+				"text",
+				"textarea\tTag"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"tab-",
+				"table-cell"
+			],
+			[
+				"alt",
+				"alturaBox"
+			],
+			[
+				"fot",
+				"font-style"
+			],
+			[
+				"mai",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"nth-",
+				"nth-last-child"
+			],
+			[
+				"pagina",
+				"paginacaoPost"
+			],
+			[
+				"ov",
+				"overflow-x"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"margn",
+				"margin-top"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"backgron",
+				"background-position"
+			],
+			[
+				"marin",
+				"margin-bottom"
+			],
+			[
+				"altu",
+				"alturaTop"
+			],
+			[
+				"a",
+				"alturaDia"
+			],
+			[
+				"altura",
+				"alturaImagem"
+			],
+			[
+				"he",
+				"helvetica"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"best",
+				"bestToursNav"
+			],
+			[
+				"tex-",
+				"text-transform"
+			],
+			[
+				"tet-",
+				"text-indent"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"verme",
+				"vermelhoGrupado"
+			],
+			[
+				"rel",
+				"Rel"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"Lem",
+				"Lembrancas"
+			],
+			[
+				"data",
+				"dataClick"
+			],
+			[
+				"sli",
+				"slideDown"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"exp",
+				"exps"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"slid",
+				"slideUp"
+			],
+			[
+				"fnt",
+				"font-size"
+			],
+			[
+				"cida",
+				"cidadeSelecionada"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"estado",
+				"estadoSelecionado"
+			],
+			[
+				"listaC",
+				"listaContatos"
+			],
+			[
+				"es",
+				"estadoSelecionado"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 156,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/express.js",
+			"settings":
+			{
+				"buffer_size": 471,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/produtos/lista.ejs",
+			"settings":
+			{
+				"buffer_size": 876,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/produtos/form.ejs",
+			"settings":
+			{
+				"buffer_size": 625,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/infra/produtosBanco.js",
+			"settings":
+			{
+				"buffer_size": 372,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cliente-android.js",
+			"settings":
+			{
+				"buffer_size": 289,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/infra/connectionFactory.js",
+			"settings":
+			{
+				"buffer_size": 240,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 119.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/fullstack",
+		"/Applications/MAMP/htdocs/fullstack/app",
+		"/Applications/MAMP/htdocs/fullstack/app/infra",
+		"/Applications/MAMP/htdocs/fullstack/app/routes",
+		"/Applications/MAMP/htdocs/fullstack/app/views",
+		"/Applications/MAMP/htdocs/fullstack/app/views/produtos",
+		"/Applications/MAMP/htdocs/fullstack/config"
+	],
+	"file_history":
+	[
+		"/Users/vitoravanco/Desktop/cvc/cvc.html",
+		"/Applications/MAMP/htdocs/fullstack/app/routes/produtos.js",
+		"/Users/vitoravanco/Desktop/cvc.html",
+		"/Users/vitoravanco/Desktop/googleshopping.xml",
+		"/Applications/MAMP/htdocs/fullstack/app/views/produtos/editar.ejs",
+		"/Applications/MAMP/htdocs/fullstack/cadastra-livros-terminal.js",
+		"/Applications/MAMP/htdocs/fullstack/app/views/produtos/salva.ejs",
+		"/Applications/MAMP/htdocs/fullstack/app/views/produtos/lista.ejs",
+		"/Applications/MAMP/htdocs/fullstack/config/express.js",
+		"/Applications/MAMP/htdocs/fullstack/views/produtos/lista.ejs",
+		"/Applications/MAMP/htdocs/fullstack/package.json",
+		"/Applications/MAMP/htdocs/fullstack/views/lista.ejs",
+		"/Applications/MAMP/htdocs/fullstack/produtosWeb.js",
+		"/Applications/MAMP/htdocs/fullstack/produtos.js",
+		"/Applications/MAMP/htdocs/aguarochabranca/wp-content/themes/rochanew/functions.php",
+		"/Applications/MAMP/htdocs/aguarochabranca/wp-content/themes/rochanew/header.php",
+		"/Users/vitoravanco/Desktop/Bioagemagento/banco-atualizado.sql",
+		"/Users/vitoravanco/Desktop/bd-godaddy.sql",
+		"/private/var/folders/yj/f_jy2flx5t1bz3k0695kwg8m0000gn/T/fz3temp-1/mapa.css",
+		"/private/var/folders/yj/f_jy2flx5t1bz3k0695kwg8m0000gn/T/fz3temp-1/wp-config.php",
+		"/private/var/folders/yj/f_jy2flx5t1bz3k0695kwg8m0000gn/T/fz3temp-1/insert-conte.php",
+		"/private/var/folders/yj/f_jy2flx5t1bz3k0695kwg8m0000gn/T/fz3temp-1/upload-conte.php",
+		"/private/var/folders/yj/f_jy2flx5t1bz3k0695kwg8m0000gn/T/fz3temp-1/script.js",
+		"/Applications/MAMP/htdocs/ratimbusca/blog/wp-content/themes/ratimbusca/assets/css/style.scss",
+		"/private/var/folders/yj/f_jy2flx5t1bz3k0695kwg8m0000gn/T/fz3temp-1/responsivo.css",
+		"/private/var/folders/yj/f_jy2flx5t1bz3k0695kwg8m0000gn/T/fz3temp-1/header.php",
+		"/private/var/folders/yj/f_jy2flx5t1bz3k0695kwg8m0000gn/T/fz3temp-1/page.php",
+		"/private/var/folders/yj/f_jy2flx5t1bz3k0695kwg8m0000gn/T/fz3temp-1/page-108.php",
+		"/private/var/folders/yj/f_jy2flx5t1bz3k0695kwg8m0000gn/T/fz3temp-1/cadastro_ente.php",
+		"/private/var/folders/yj/f_jy2flx5t1bz3k0695kwg8m0000gn/T/fz3temp-1/post-submitter.js",
+		"/private/var/folders/yj/f_jy2flx5t1bz3k0695kwg8m0000gn/T/fz3temp-1/plugin.php",
+		"/Applications/MAMP/htdocs/aguarochabranca/wp-config.php",
+		"/Users/vitoravanco/Downloads/CustomFileInputs/index.html",
+		"/Users/vitoravanco/Downloads/bootstrap-fileinput-master/examples/index.html",
+		"/Applications/MAMP/htdocs/ratimbusca/blog/wp-content/themes/ratimbusca/footer.php",
+		"/Applications/MAMP/htdocs/ratimbusca/blog/wp-content/themes/ratimbusca/functions.php",
+		"/Applications/MAMP/htdocs/ratimbusca/blog/wp-content/themes/ratimbusca/header.php",
+		"/Applications/MAMP/htdocs/ratimbusca/blog/wp-content/themes/ratimbusca/loop.php",
+		"/Applications/MAMP/htdocs/ratimbusca/blog/wp-content/themes/ratimbusca/single.php",
+		"/Applications/MAMP/htdocs/ratimbusca/blog/wp-content/themes/ratimbusca/tag.php",
+		"/Applications/MAMP/htdocs/ratimbusca/blog/wp-content/themes/ratimbusca/assets/js/script.js",
+		"/Applications/MAMP/htdocs/ratimbusca/blog/wp-content/themes/ratimbusca/sidebar.php",
+		"/Applications/MAMP/htdocs/ratimbusca/blog/wp-content/themes/ratimbusca/index.php",
+		"/Applications/MAMP/htdocs/ratimbusca/blog/wp-content/themes/ratimbusca/search.php",
+		"/Applications/MAMP/htdocs/ratimbusca/blog/wp-content/themes/ratimbusca/archive.php",
+		"/Users/vitoravanco/Downloads/html5blank-stable/single.php",
+		"/Users/vitoravanco/Desktop/seo",
+		"/Users/vitoravanco/Downloads/html5blank-stable/index.php",
+		"/Users/vitoravanco/Downloads/html5blank-stable/loop.php",
+		"/Users/vitoravanco/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/ratimbusca/assets/css/style.scss",
+		"/Applications/MAMP/htdocs/ratimbusca/blog/wp-content/themes/ratimbusca/searchform.php",
+		"/Applications/MAMP/htdocs/ratimbusca/includes/header.php",
+		"/Applications/MAMP/htdocs/ratimbusca/includes/head.php",
+		"/Applications/MAMP/htdocs/ratimbusca/includes/footer.php",
+		"/Users/vitoravanco/.Trash/js/scripts.js",
+		"/private/var/folders/yj/f_jy2flx5t1bz3k0695kwg8m0000gn/T/fz3temp-1/page-quemsomos.php",
+		"/Applications/MAMP/htdocs/adpneus/wp-content/themes/adpneus/css/adpneus.scss",
+		"/Users/vitoravanco/Downloads/magento.ppk",
+		"/Users/vitoravanco/Desktop/teste.ppk",
+		"/Users/vitoravanco/Desktop/my-ssh-keys.pub",
+		"/Users/vitoravanco/Desktop/Bioagemagento/.htaccess",
+		"/Applications/MAMP/htdocs/aguarochabranca/wp-content/themes/rochanew/404.php",
+		"/Applications/MAMP/htdocs/aguarochabranca/wp-content/themes/rochanew/page-afonte.php",
+		"/Applications/MAMP/htdocs/aguarochabranca/wp-content/themes/rochanew/page-contato.php",
+		"/Applications/MAMP/htdocs/aguarochabranca/wp-content/themes/rochanew/page-lojas.php",
+		"/Applications/MAMP/htdocs/aguarochabranca/wp-content/themes/rochanew/page-produtos.php",
+		"/Applications/MAMP/htdocs/aguarochabranca/wp-content/themes/rochanew/page.php",
+		"/Applications/MAMP/htdocs/aguarochabranca/wp-content/themes/rochanew/single.php",
+		"/Users/vitoravanco/Desktop/functions.php",
+		"/Applications/MAMP/htdocs/aguarochabranca/wp-content/themes/rochanew/style.css",
+		"/Applications/MAMP/htdocs/aguarochabranca/wp-content/themes/rochanew/bower.json",
+		"/Applications/MAMP/htdocs/aguarochabranca/wp-content/themes/rocha-branca-2016/index.php",
+		"/Applications/MAMP/htdocs/aguarochabranca/wp-content/themes/rocha-branca-2016/footer.php",
+		"/Applications/MAMP/htdocs/aguarochabranca/wp-content/themes/rocha-branca-2016/page.php",
+		"/Applications/MAMP/htdocs/aguarochabranca/wp-content/themes/rocha-branca-2016/header.php",
+		"/Applications/MAMP/htdocs/ratimbusca/fornecedor.php",
+		"/Applications/MAMP/htdocs/ratimbusca/index.php",
+		"/Applications/MAMP/htdocs/ratimbusca/assets/lib/raty-master/lib/jquery.raty.css",
+		"/Applications/MAMP/htdocs/ratimbusca/como-funciona.php",
+		"/Applications/MAMP/htdocs/ratimbusca/assets/js/responsivo.js",
+		"/Applications/MAMP/htdocs/ratimbusca/assets/js/script.js",
+		"/Applications/MAMP/htdocs/ratimbusca/assets/css/responsivo.scss",
+		"/Applications/MAMP/htdocs/ratimbusca/includes/headerMobile.php",
+		"/Applications/MAMP/htdocs/ratimbusca/templates/fornecedor/informacoes.php",
+		"/Applications/MAMP/htdocs/ratimbusca/templates/fornecedor/home.php",
+		"/Applications/MAMP/htdocs/ratimbusca/busca.php",
+		"/Applications/MAMP/htdocs/ratimbusca/includes/headerHome.php",
+		"/Applications/MAMP/htdocs/thassia/wp-content/themes/twentyfifteen/scss/responsivo.scss",
+		"/Applications/MAMP/htdocs/ratimbusca/includes/acessos.php",
+		"/Applications/MAMP/htdocs/ratimbusca/templates/fornecedor/agenda.php",
+		"/Applications/MAMP/htdocs/ratimbusca/login.php",
+		"/Applications/MAMP/htdocs/ratimbusca/sobre.php",
+		"/Applications/MAMP/htdocs/ratimbusca/links.html",
+		"/Applications/MAMP/htdocs/ratimbusca/comparador.php",
+		"/Applications/MAMP/htdocs/ratimbusca/cadastro.php",
+		"/Applications/MAMP/htdocs/ratimbusca/contato.php",
+		"/Applications/MAMP/htdocs/ratimbusca/politica-privacidade.php",
+		"/Applications/MAMP/htdocs/ratimbusca/termo-de-uso.php",
+		"/Applications/MAMP/htdocs/ratimbusca/templates/fornecedor/links.html",
+		"/Applications/MAMP/htdocs/ratimbusca/templates/fornecedor/localizacao.php",
+		"/Applications/MAMP/htdocs/ratimbusca/templates/fornecedor/fotos.php",
+		"/Applications/MAMP/htdocs/ratimbusca/templates/fornecedor/descricao.php",
+		"/Applications/MAMP/htdocs/ratimbusca/templates/fornecedor/recomendacoes.php",
+		"/Applications/MAMP/htdocs/marcenaria/wp-content/themes/marcenaria/js/scripts.js",
+		"/Applications/MAMP/htdocs/ju/development/scripts/script.js",
+		"/Applications/MAMP/htdocs/ju/wp-content/themes/html5blank/assets/js/script.js",
+		"/Applications/MAMP/htdocs/ju/wp-content/themes/html5blank/page.php",
+		"/Applications/MAMP/htdocs/ratimbusca/assets/lib/calendar/dateTimePicker.min.js",
+		"/Applications/MAMP/htdocs/gutocarvalhoneto/loja/css/style.scss",
+		"/Applications/MAMP/htdocs/gutocarvalhoneto/loja/elements/snippets/product.html",
+		"/Applications/MAMP/htdocs/gutocarvalhoneto/html/categoria.html",
+		"/Applications/MAMP/htdocs/gutocarvalhoneto/loja/layouts/default.html",
+		"/Applications/MAMP/htdocs/gutocarvalhoneto/loja/pages/search.html",
+		"/Applications/MAMP/htdocs/gutocarvalhoneto/loja/pages/catalog.html",
+		"/Applications/MAMP/htdocs/gutocarvalhoneto/loja/elements/snippets/showcase.html",
+		"/Applications/MAMP/htdocs/gutocarvalhoneto/loja/css/theme.min.css",
+		"/Applications/MAMP/htdocs/gutocarvalhoneto/loja/elements/snippets/price.html",
+		"/Applications/MAMP/htdocs/gutocarvalhoneto/loja/elements/sidebar_left.html",
+		"/Applications/MAMP/htdocs/idealshop/elements/snippets/price.html",
+		"/Applications/MAMP/htdocs/idealshop/pages/catalog.html",
+		"/Applications/MAMP/htdocs/gutocarvalhoneto/loja/elements/header.html",
+		"/Applications/MAMP/htdocs/gutocarvalhoneto/layouts/site-guto-produto-escolhido.jpg",
+		"/Applications/MAMP/htdocs/gutocarvalhoneto/html/produto.html",
+		"/Applications/MAMP/htdocs/gutocarvalhoneto/loja/elements/footer.html",
+		"/Applications/MAMP/htdocs/gutocarvalhoneto/html/assets/css/style.scss",
+		"/Applications/MAMP/htdocs/gutocarvalhoneto/layouts/site-guto-produtos.jpg",
+		"/private/var/folders/yj/f_jy2flx5t1bz3k0695kwg8m0000gn/T/fz3temp-1/index.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<current file>",
+			"/Users/vitoravanco/Desktop/Bioagemagento/",
+			"/Users/vitoravanco/Desktop/Bioagemagento/app",
+			"/Users/vitoravanco/Desktop/Bioagemagento",
+			"<current file>",
+			"/Applications/MAMP/htdocs/aguarochabranca/wp-content/themes/rochanew",
+			"/Applications/MAMP/htdocs/aguarochabranca-b/aguarochabranca/wp-content/",
+			"/Applications/MAMP/htdocs/aguarochabranca-b/aguarochabranca",
+			"/Applications/MAMP/htdocs/aguarochabranca-b/wp-content/",
+			"<current file>,/Applications/MAMP/htdocs/aguarochabranca-b/wp-content/plugins/",
+			"<current file>,/Applications/MAMP/htdocs/aguarochabranca/wp-content/plugins/",
+			"<current file>,/Applications/MAMP/htdocs/aguarochabranca/wp-content/themes/rochanew",
+			"<current file>",
+			"/Users/vitoravanco/Desktop/email-subscribers",
+			"<current file>",
+			"/Applications/MAMP/htdocs/adpneus/wp-content/themes/adpneus",
+			"<current file>",
+			"/Users/vitoravanco/Desktop/alergico",
+			"/Users/vitoravanco/Desktop/mesocolumn",
+			"<current file>",
+			"<current file>,/Users/vitoravanco/Desktop/wsfolio",
+			"<current file>,/Users/vitoravanco/Desktop/livro",
+			"<current file>",
+			"<current file>,/Applications/MAMP/htdocs/procorpo,/Applications/MAMP/htdocs/procorpo/catalog/controller",
+			"<current file>,/Applications/MAMP/htdocs/procorpo",
+			"<current file>,/Applications/MAMP/htdocs/opencart",
+			"<current file>,/Applications/MAMP/htdocs/marcenaria/wp-content/themes/marcenaria",
+			"<current file>",
+			"<current file>,/Applications/MAMP/htdocs/qualitytrip/wp-content/plugins/website-logo",
+			"<current file>",
+			"/Users/vitoravanco/Desktop/tripalium",
+			"/Users/vitoravanco/Desktop/wsfolio",
+			"/Applications/MAMP/htdocs/techdoc/production",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"20160928",
+			"salva",
+			"20160912",
+			"C001_gen_nac_paraiba02",
+			"http://www.cvc.com.br/destinos/brasil/joao-pessoa.aspx",
+			"case-logic",
+			"caderneta-moleskine-classica---grande---sem",
+			"ZENFONE 2",
+			"ap010br",
+			"editar",
+			"lista",
+			"listaProdutos",
+			"bioage",
+			"bioage.com.br",
+			"www.bioage.com.br",
+			"/home/storage/8/1e/de/bioage/public_html/",
+			"overflow",
+			"menuMobile",
+			"var erro",
+			"#conte",
+			"conte",
+			"enviar-post",
+			"escapingBallG",
+			".",
+			"$imagem[$i]",
+			"$imagem",
+			"showUploadedItem",
+			"length",
+			"submitForm",
+			"prepareUpload",
+			"files",
+			"sub-one.example.com",
+			".page",
+			"input",
+			"menu",
+			"calc",
+			".inputfile-6 + label",
+			".inputfile+label",
+			"no-js",
+			"preview",
+			"page",
+			"fileT",
+			"file-3",
+			"file-5",
+			"file-preview",
+			"border-top",
+			"ver",
+			"sidebar-widget",
+			"acessar-post",
+			"h1",
+			"relaci",
+			"html5wp_pagination",
+			"<?php",
+			"html5_blank_view_article",
+			"admin",
+			"HTML5 Blank",
+			"post",
+			"\"assets/",
+			".footer",
+			"$abel",
+			"Abel",
+			"conditionizr",
+			"principios-valores",
+			"descricao",
+			"descricao principios",
+			"listaUnidades",
+			"unidade",
+			"$group_",
+			"www.bioage.com.br",
+			"AD Pneus",
+			"row bars barsP",
+			"$('#acessa-contato').click(fu",
+			"$",
+			"sustainable_website",
+			"selosustentavel",
+			"get_template_part( '",
+			"produtos",
+			"row produtos",
+			"produtos",
+			"get_template_part",
+			"respos",
+			"horizontal",
+			".list",
+			"list-style",
+			"iconeMenu",
+			"star-off-png",
+			"filtrarPor",
+			".vitrine,",
+			"avaliacoesConteudo",
+			".vitrine",
+			".vitrine {",
+			".vitrine",
+			"vitrineContent",
+			"tituloProduto",
+			"areaLojista",
+			".como-funciona.banner",
+			".avaliacaoUsuarios .galeriaAvaliacoes .item .avaliacoesUsuario .fotoUsuario",
+			"avaliacoes",
+			"#modalFoto .galeria",
+			".conteudoFornecedor .painel .tituloPainel img",
+			"$rosa",
+			"avaliacoes",
+			"galeriaPerfilPreview",
+			"owlCarou",
+			".pageTitle",
+			"buscaHeader",
+			"menuMobile",
+			".masterBanner .buscaPrincipal .flagBusca",
+			".masterBanner .buscaPrincipal .masterBusca",
+			".acessos",
+			"owl",
+			"mensagem",
+			"preun",
+			"contato",
+			"unavaible",
+			"caledarHeader",
+			".raty",
+			"raty",
+			"fornecedor",
+			"vitrineCatalogo",
+			"vitrineContent",
+			"galeriaPerfil",
+			".owl-prev",
+			"252px",
+			"galeriaPerfil",
+			"recomendacoes",
+			"raty",
+			"sideBlock"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"20161012",
+			"20160928",
+			"M001_coop_paraiba",
+			"http://www.cvc.com.br/destinos/brasil/joao-pessoa",
+			"107.180.67.219",
+			"/var/www/html/",
+			"erro",
+			"carregando",
+			"$imagem",
+			"$imagem[$i]",
+			"appteste.com",
+			"\"../assets/",
+			"<strong>AD Pneus</strong>",
+			"get_template_part( 'template-parts/",
+			"unavailable",
+			"",
+			"=\"<?php echo get_template_directory_uri(); ?>/scripts/",
+			"=<?php echo get_template_directory_uri(); ?>/scripts/",
+			"Album",
+			"<img src=\"https://placeholdit.imgix.net/~text?txtsize=16&txt=Curso&w=300&h=150\">",
+			"<h3>Nome do Curso</h3>",
+			"src=\"/bioage-capa.jpg\"",
+			"http://adpneus.com.br/homolog",
+			"http://adpneus.com.br/homolog/",
+			"adpneus",
+			"333333",
+			"\"Myriad Pro\", Myriad, \"Liberation Sans\", \"Nimbus Sans L\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+			"333",
+			"",
+			"'",
+			"e-Homenagem",
+			"http://admumbraco",
+			"$",
+			"id",
+			"entry",
+			".menuEmbaixador .opcoesTopo",
+			"menuEmbaixador",
+			"email.php?",
+			"www.performaweb.com.br",
+			"Redirect 302 ",
+			"",
+			"http://www.performaweb.com.br/clientesDesenvolvimento/techdoc/",
+			"#f3b723"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 156,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								29
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config/express.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								408,
+								427
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/views/produtos/lista.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 876,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								459,
+								459
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/views/produtos/form.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 625,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								128
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/infra/produtosBanco.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								214
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "cliente-android.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 289,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								151,
+								151
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/infra/connectionFactory.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 240,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								148,
+								152
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "fullstack.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,103 @@
+body {background: #555555;
+	margin: 0px;}
+@font-face{
+	font-family: source; 
+	src: url(SourceSansPro-Regular.otf);}
+
+@font-face{
+	font-family: sourcelight; 
+	src: url(SourceSansPro-Light.otf);}	
+
+#alinha{
+	width:900px;
+	margin:auto;
+}
+
+nav{width: 900px;
+height:auto;
+font-family: source;
+}
+
+ul {width: 900px; list-style:none; margin: 0; padding: 0; float:left; background: #323232;}
+ul li {float:left;}
+ul li a {padding: 20px 10px 20px 10px; float:left; text-decoration: none; color:#bfbfbf;}
+ul li a:hover{background: #c7c5c5; color: #555555;}
+
+.ativo{
+	background: #828282;}
+	img{width:100px; height: 100px;}
+
+#tudo{
+	width: 900px;
+	height: auto;
+	margin: auto; 
+position: relative;
+}
+
+
+
+section.banner{
+	width: 900px;
+	height: 350px;
+	background: url("2.png");
+	margin-bottom: 10px;
+	margin-top: 10px;
+	float: left;
+}
+
+
+aside{
+	width: 220px;
+	height: 1550px;
+	background:#555555;
+	float: left;
+	margin-right:10px;
+	border-right: 2px solid #323232
+}
+article{
+	width: 668px;
+	height: auto;
+	background: #555555;
+	float: right;
+	font-family: sourcelight; 
+	font-size: 16px;
+ color:#bfbfbf
+
+	
+}
+
+h1{ font-family: sourcelight; 
+	font-size: 20px;
+	text-align: left;
+	color:#bfbfbf}
+
+	h2{ font-family: sourcelight; 
+	font-size: 15px;
+	text-align: left;
+	color:#bfbfbf}
+
+
+	img {width: 300px;
+	height: 350px;
+    float: right;}
+
+
+
+.quemsou {
+		width: 668px;
+	height: auto;
+		float: left;
+}
+
+.galeria {
+		width: 668px;
+	height: 830px;
+		float: left;
+	margin-top: 30px;
+}
+
+.contato {
+		width: 668px;
+	    height: auto;
+		float: left;
+}

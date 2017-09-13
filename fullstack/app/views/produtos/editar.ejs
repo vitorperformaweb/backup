@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<form action="/produtos" method="post">
+		<div>
+			<label for="titulo">
+				Titulo <%=lista[i].id %>
+			</label>
+			<input id="titulo" type="text" name="titulo" placeholder="Titulo">
+		</div>
+		<div>
+			<label for="preco">
+				Preco
+			</label>
+			<input id="preco"  type="text" name="preco" placeholder="Preço"/>
+		</div>
+		<div>
+			<label for="descricao">	
+				Descrição
+			</label>
+			<textarea id="descricao" name="descricao" placeholder="Descrição"></textarea>
+		</div>
+		<input type="submit" value="Salvar">
+	</form>
+</body>
+</html>

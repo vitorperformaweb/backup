@@ -1,0 +1,859 @@
+.cabecalho{
+	background-color: #670f0d;
+}
+#glt-translate-trigger{
+	display: none !important;
+}
+#flags.size18 li a{
+	width: 0px !important;
+    height: 5px !important;
+}
+#flags.size18{
+	width: auto;
+    margin: auto;
+    text-align: right;
+    margin: 0;
+    float: right;
+    margin-top: 20px;
+	ul{
+		    float: none;
+		    padding: 0px;
+		    text-align: right;
+	}
+	li{
+		a{
+			width: 0px !important;
+			height: 5px !important;
+		}
+	}
+}
+.especialistas-home .especialista a:hover{
+	background: #FFF;
+	color: #84171a;
+}
+.menu-adicional .fechar i{
+	    line-height: 26px;
+}
+#agendamento .linha-formulario textarea, #agendamento .linha-formulario input{
+	color: #444;
+}
+.blog, .single, .archive, .search-results{
+		.cabecalho{
+			padding: 50px 0px;
+		}
+	}
+	#wp_rp_first{
+		border-top: 1px solid #ddd;
+	    margin-top: 40px;
+	    padding-top: 40px;
+		ul.related_post li img, ul.related_post, div.wp_rp_content{
+			width: 100% !important;
+		}	
+		ul.related_post li img{
+			box-shadow: none !important;
+			border-radius: 0px !important;
+		}
+	}
+	
+	.wp_rp_wrap .related_post_title{
+		    font-weight: 600;
+    		color: #333;
+    		margin-bottom: 10px !important;
+	}
+	#wp_rp_first ul.related_post li{
+		width: 30% !important;
+    	margin-right: 4.6% !important;
+		a{
+			font-size: 14px;
+			line-height: 20px;
+			color: #333;
+			font-weight: 600;
+			line-height: 16px !important;
+    		font-size: 12px !important;
+		}
+		&:last-child{
+			margin-right: 0px !important;
+		}
+	}
+	.topo{
+
+		#flags.size18{
+			margin-top: 0px;
+			float: left;
+		}
+		#flags li{
+			width: 30px;
+		}
+		#flags.size18 li a{
+			    width: 15px !important;
+    height: 15px !important;
+		}
+	}
+@media (min-width: 768px){
+	
+	.text-705{
+		margin-left: 120px;
+    	width: 60%;
+	}
+	.text-706{
+		width: 60%;
+	}
+	.slideshow-apoio .col-sm-12 p:first-child{
+		display: none;
+	}	
+}
+@media (min-width: 768px) and (max-width: 1200px){
+
+
+	html, body, .container {
+	    width: 1170px !important;
+	}
+	
+}
+
+@media screen and (max-width: 768px){
+	.menu-984, .wpcf7-form-control-wrap.Melhor-Data{
+		margin-left: 0px;
+	}
+	.menu-984, #agendamento .linha-formulario input.data{
+		width: 100%;
+    	max-width: 100%;
+	}
+	.wpcf7-form-control.horario{
+		    width: 100%;
+		    height: 35px;
+		    max-width: 100%;
+		    border: 1px solid #999;
+		    margin-bottom: 15px;
+		    padding-left: 7px;
+	}
+	#agendamento .modal-content{
+		position: relative;
+	    background-image: url(/cco/top.jpg);
+	    background-size: contain;
+	    background-repeat: no-repeat;
+	    padding-top: 50px;
+		.titulo-agendamento-mobile{
+			display: none;
+		}
+	}
+	.depoimentos-home .owl-prev, .depoimentos-home .owl-next{
+		top: 23%;
+	}
+	#modalContato{
+		a{
+			img{
+				max-width: 100%;
+				width: auto;
+				height: auto;
+			}
+		}
+	}
+	.titulo-agendamento-mobile{
+		text-align: center;
+	    margin-bottom: 10px;
+	    font-weight: 600;
+	    text-transform: uppercase;
+	}
+	.page-template-page-tratamentos .outros-tratamentos .lista-tratamentos ul li a{
+		text-align: left;
+	}
+	#ebook .imagem{
+	    display: block;
+	    float: left;
+	    width: 100px;
+	    height: auto;
+	}
+	.menu-adicional .menu-segundario{
+		max-width: 300px;
+	}
+	.contato-footer .mapa-link img{
+		max-width: 100%;
+	}
+	.contato-footer .telefone{
+		font-size: 13px;
+	}
+	.contato-footer .telefone img{
+		float: left;
+	}
+	footer .redes-sociais{
+		text-align: center;
+	}
+	footer .desenvolvido{
+		text-align: center;
+		margin-top: 10px;
+	}
+	#newsletter{
+	    padding: 25px 0px;
+	}
+	#newsletter .seta, #newsletter .mulher{
+		display: none;
+	}
+	.pagina-contato .telefone, .pagina-contato .faixa-contato .texto, #newsletter .frase{
+		width: 100%;
+		font-size: 18px;
+		max-width: 100%;
+	}
+	
+	#newsletter .sml_submit, #newsletter .sml_name, #newsletter .sml_email{
+		width: 100%;
+		margin-bottom: 5px;
+		padding: 0px;
+	}
+	#newsletter .frase{
+		text-align: left;
+	}
+	.topo .numero.telefone, .topo .numero, .pagina-contato img{
+		display: none;
+	}
+	header .container .row h1 a{
+		text-align: left;
+	    margin-left: -20px;
+	}
+	.qtranxs_widget ul{
+		text-align: center;
+	}
+	.topo{
+		padding: 5px;
+		margin-bottom: 5px;
+		display: none;
+	}
+	header .menu-primario li{
+		display: none;
+	}
+	header .menu-primario li:last-child{
+		display: block;
+		width: 100%;
+		border: 0px;
+	}
+	header .container .row, header .container{
+		display: block;
+		width: 100%;
+	}
+	header .container{
+		height: 55px;
+	}
+	header .container .row h1 a img{
+		width: 100px;
+	}
+	header .menu-primario{
+		display: inline-block;
+	    margin: 0;
+	    position: absolute;
+	    right: 0px;
+	    width: 50px;
+	    top: -40px;
+	}
+	header .agende-consulta{
+	    position: absolute;
+	    width: auto;
+	    height: auto;
+	    top: -57px;
+	    right: 37%;
+	    border: 0px;
+	    border-radius: 0px;
+	    overflow: hidden;
+	    font-size: 10px;
+	    line-height: 11px;
+	    padding: 7px 18px;
+	    border-radius: 5px;
+	}
+	.cabecalho{
+		margin-bottom: 30px;
+	}
+	.cabecalho h1{
+		padding: 0px;
+	}
+	.contato-footer{
+		padding: 30px 0px;
+	}
+	.slideshow-apoio{
+		font-size: 12px;
+	    line-height: 20px;
+	    p{
+	    	margin-top: 17px;
+	    }
+	}
+	.slideshow .owl-dots .owl-dot{
+		margin-top: 8px;
+		margin-bottom: 2px;
+		    width: 18px;
+    	height: 18px;
+	}
+	#ebook{
+		height: auto;
+	}
+	.na-midia .lista-radio .owl-next, .na-midia .lista-radio-interno .owl-next{
+		right: 0px;
+	}
+	.na-midia .lista-radio .owl-prev, .na-midia .lista-radio-interno .owl-prev{
+		left: 0px;
+	}
+	.artigos-publicados .lista-artigos .artigos li{
+		margin-bottom: 10px;
+	}
+	.artigos-publicados .lista-artigos .artigos li a .titulo, .artigos-publicados .lista-artigos .artigos li a .data{
+		text-align: center;
+	}
+	.artigos-publicados .lista-artigos .artigos li img{
+		height: 40px;
+	}
+	.videos-home .componente-video .ytwd_gallery_container{
+		display: none;
+	}
+	.videos-home .componente-video .ytwd_gallery_container, .videos-home .componente-video .ytwd_iframe_container2{
+		float: none;
+		width: 100%;
+	}
+	.especialistas-home{
+		padding-bottom: 20px;
+	}
+	.depoimentos-home .lista-depoimentos .depoimento{
+		margin-bottom: 30px;
+	}
+	.depoimentos-home{
+		padding-bottom: 20px;
+	}
+	.depoimentos-home .lista-depoimentos .depoimento .titulo{
+		display: none;
+	}
+	#ebook .input-texto.email, #ebook .texto-apoio, .especialistas-home .especialista .especialista-nome,.especialistas-home .especialista .especialista-descricao,.especialistas-home .especialista a {
+		margin:  auto;
+		text-align: center;
+		display: block;
+		width: 100%;
+		padding: 0px;
+	}
+	#ebook .input-texto.email{
+		text-align: left;
+		padding-left: 10px;
+	}
+	.especialistas-home .box-especialista .box{
+		margin-bottom: 15px;
+	    background: #84171a;
+	}
+	.especialistas-home .especialista{
+		background: transparent; 
+		text-align: center;
+	}
+	.page-template-page-home h2{
+		font-size: 30px;
+	}
+	.tour-360{
+		display: none;
+		display: block;
+	}
+	.tratamentos-home .tratamentos-destaque .tratamento, #ebook .input-botao, #ebook .input-texto{
+		width: 100%;
+		margin-bottom: 5px;
+	}
+	.tratamentos-home .tratamentos-destaque .tratamento{
+		margin-bottom: 15px;
+	}
+	#ebook .texto-apoio{
+	    font-size: 18px;
+    	text-align: left;
+	}
+	#ebook .chamada{
+		font-size: 16px;
+		text-align: left;
+		margin-top: 20px;
+	}
+	.tratamentos-home .outros-tratamentos .lista-tratamentos{
+		text-align: center;
+	}
+	.tratamentos-home .outros-tratamentos .lista-tratamentos li{
+		display: block;
+		margin: auto;
+		width: auto;
+		margin-bottom: 10px;
+	}
+	.especialistas-home .especialista>img{
+	    position: relative;
+	    bottom: initial;
+	    left: initial;
+	    margin: auto;
+	}
+	header .menu-primario li a{
+		padding: 10px;
+    	margin-top: 0px;
+    	margin-right: -20px;
+	}
+	.menu-adicional .menu-segundario li a{
+		font-size: 28px;
+	}
+	.especialistas-home .box-especialista{
+		padding: 0 15px;
+	}
+	.na-midia .lista-videos .owl-next, .na-midia .lista-videos-interno .owl-next{
+		right: 0px;
+	}
+	.na-midia .lista-videos .owl-prev, .na-midia .lista-videos-interno .owl-prev{
+		left: 0px;
+	}
+	.artigos-publicados .lista-artigos .artigos li a .titulo, .artigos-publicados .lista-artigos .artigos li a .data{
+		padding: 0px;
+		border: 0px;
+	}
+	.artigos-publicados .lista-artigos .artigos li a .data{
+		background-color: #f1f1f1;
+	}
+	.artigos-publicados .lista-artigos .artigos li a .logo{
+		display: none;
+	}
+	#ebook .input-botao{
+		margin-top: 5px;
+	}
+	.tratamentos-home{
+		min-height: 1300px;
+		background: #f1f1f1 !important;
+	    padding-bottom: 50px;
+	}
+	.especialistas-home .especialista{
+		height: auto;
+	}
+	.especialistas-home .especialista .especialista-descricao{
+		margin: 15px auto;
+	}
+	.page-template-page-home h2{
+		text-align: center;
+	}
+	header .container .row, .artigos-publicados .lista-artigos .artigos li{
+		margin: 0px;
+	}
+	.page-template-page-clinica .conteudo-pagina{
+		margin-top: 0px;
+	    margin-top: -30px;
+	}
+	.page-template-page-clinica .lista-tratamentos ul li{
+		width: 100%;
+	}
+	.page-template-page-clinica .conteudo-pagina .galeria-clinica{
+		display: none;
+	}
+	.page-template-page-video .ytwd_iframe_container1 .ytwd_iframe_wrapper, .page-template-page-video .ytwd_iframe_container1 .ytwd_main_video_info1{
+		display: block;
+		width: 100%;
+		margin: auto;
+		margin-bottom: 15px;
+	}
+	.page-template-page-video .ytwd_gallery1 .ytwd_gallery_item1{
+		min-width: 145px;
+	}
+	.page-template-page-especialista .especialista .imagem-doutor, .single article.post .autor-data img{
+		display: none;
+	}
+	.page-template-page-especialista .especialista+.especialista .box-info, .page-template-page-especialista .especialista .box-info{
+		margin: auto;
+    width: 100%;
+    margin-bottom: 25px;
+    float: none;
+	}
+	.page-template-page-todos-tratamentos h2{
+		font-size: 21px;
+	}
+	.page-template-page-todos-tratamentos .lista-tratamentos ul li{
+		margin: auto;
+		margin-bottom: 10px;
+		width: 100%;
+		display: block;
+		max-width: 225px;
+		margin-bottom: 30px;
+	}
+	.page-template-page-tratamentos .outros-tratamentos .lista-tratamentos, .page-template-page-tratamentos .videos-relacionados .lista-de-videos, .page-template-page-tratamentos .artigos-relacionados .lista-artigos{
+		display: block;
+	}
+	.page-template-page-tratamentos iframe{
+		height: 200px;
+	}
+	.tenho-interesse{
+		font-size: 23px;
+	}
+	#agendamento img{
+		display: none;
+	}
+	#agendamento .modal-content{
+		background-color: #FFF;
+		border: 1px solid #ccc;
+	}
+	#agendamento .linha-formulario .col-sm-6+.col-sm-6 input, #agendamento .linha-formulario .col-sm-6 input, #agendamento .linha-formulario textarea, #agendamento .linha-formulario input{
+		margin: auto;
+		margin-bottom: 5px;
+		font-size: 12px;
+		color: #000;
+	}
+	#agendamento .linha-formulario{
+		position: relative;
+	    top: initial;
+	    left: initial;
+	    padding: 15px;
+	}
+	#agendamento .linha-formulario .col-sm-6 input{
+		max-width: 100%;
+		margin-bottom: 5px;
+	}
+	.depoimentos-home .owl-prev{
+		
+		left: 0px;
+	}
+	.depoimentos-home .owl-next{
+		
+		right: 0px;
+	}
+	.na-midia .lista-videos .video iframe, .na-midia .lista-videos-interno .video iframe{
+		height: 200px !important;
+	}
+	#newsletter .mulher{
+		display: block;
+	    bottom: -51%;
+    	right: 0px;
+    	bottom: -221%;
+    	img{
+    		max-height: 270px;
+    	}
+	}
+	.contato-footer .telefone.fonte-grande, .contato-footer .texto{
+		font-size: 16px;
+	}
+	.contato-footer .texto_adicional{
+	    margin-top: 10px;
+	}
+	.contato-footer .texto_mapa{
+	    margin-top: 30px;
+	}
+	.lista-artigos .owl-next, .lista-de-videos .owl-next, .lista-profissionais .owl-next{
+		right: -30px;
+	}
+	.page-template-page-tratamentos .outros-tratamentos .lista-tratamentos ul{
+		text-align: center;
+	}
+	.page-template{
+		&.page-template-page-tratamentos{
+			#newsletter .mulher{
+				bottom: -267%;
+			}
+		}
+		#newsletter .mulher{
+			bottom: -221%;
+		}
+	}
+	.page-template-page-tratamentos .outros-tratamentos .lista-tratamentos ul li{
+		margin: auto;
+		margin-bottom: 30px;
+	}
+	.page-template-page-especialista .especialista .imagem-doutor{
+		    display: block;
+		    margin-left: 18px;
+		    margin-right: 5px;
+		    margin-top: 22px;
+	}
+	.lista-profissionais .box-profissional{
+		    margin: auto;
+    		padding: 0 25px;
+	}
+	.lista-profissionais .owl-prev{
+		left: 0px;
+	}
+	.lista-profissionais .owl-next{
+		right: 0px;
+	}
+	
+	span.wpcf7-not-valid-tip{
+		z-index: 2;
+	    top: 6px;
+	    right: 0px !important;
+	}
+	.wpcf7-form-control-wrap.textarea-374 span.wpcf7-not-valid-tip{
+		top: 58%;
+	}
+	#secondary .banners-blog a{
+		text-align: center;
+	}
+	.lista-de-ambiente{
+		margin-bottom: 0px;
+		padding: 0 20px;
+	}
+	.lista-de-ambiente .owl-next{
+		right: -4px;
+	}
+	.lista-de-ambiente .owl-prev{
+		left: -4px;
+	}
+	.na-midia .lista-radio .radio iframe, .na-midia .lista-radio-interno .radio iframe{
+		height: 200px;
+	}
+	.depoimentos-home .listadepoimentos .depoimento, .na-midia .lista-videos .video , .na-midia .lista-videos-interno .video, .na-midia .lista-radio .radio, .na-midia .lista-radio-interno .radio{
+		padding: 0px 20px;
+	}
+	.page-template-page-clinica .lista-tratamentos ul{
+		text-align: center;
+	}
+	.page-template-page-clinica .lista-tratamentos ul li{
+	    max-width: 223px;
+	    margin-bottom: 30px;
+	    text-align: left;
+	}
+	#flags.size18{
+		width: auto;
+	    margin: auto;
+	    text-align: right;
+	    margin: 0;
+	    float: right;
+	    margin-top: 20px;
+		ul{
+			    float: none;
+			    padding: 0px;
+			    text-align: right;
+		}
+		li{
+			a{
+				width: 0px !important;
+    			height: 5px !important;
+			}
+		}
+	}
+	.tratamentos-home .tour-360{
+		text-align: center;
+	}
+	#ebook .imagem{
+		width: 160px;
+		margin-bottom: 30px;
+	}
+	select,
+	  textarea,
+	  input {
+	    font-size: 17px !important;
+	  }
+	  #agendamento .linha-formulario textarea, #agendamento .linha-formulario input{
+	  	height: 40px;
+	  }
+	  
+	  #wp_rp_first ul.related_post li a.wp_rp_thumbnail{
+	  	float: none !important;
+	  }
+	  #wp_rp_first ul.related_post li img{
+	  	height: 200px !important;
+	  }
+	  #wp_rp_first ul.related_post li a{
+	  	line-height: 22px !important;
+	    font-size: 18px !important;
+	    text-align: center;
+	  }
+	  .blog .cabecalho, .single .cabecalho, .archive .cabecalho, .search-results .cabecalho{
+	  	padding: 20px 0px;
+	  }
+	  .cabecalho .col-sm-12{
+	  	height: 75px;
+	  }
+	  .cabecalho h1{
+	  	font-size: 26px;
+	  }
+	  .page-template-page-clinica .conteudo-pagina .tratamentos-home{
+	  	min-height: auto;
+	  }
+	  .video-institucional iframe{
+		max-height: 325px;
+	}
+	.especialistas-home .box-especialista{
+		width: 50%;
+   		 float: left;
+	}
+	.page-template-page-clinica .lista-tratamentos ul, .page-template-page-tratamentos .outros-tratamentos .lista-tratamentos ul, .page-template-page-todos-tratamentos .lista-tratamentos ul{
+	  	    padding: 0;
+		    width: 100%;
+		    text-align: left;
+		
+	  }
+	  .page-template-page-clinica .lista-tratamentos ul li, .page-template-page-tratamentos .outros-tratamentos .lista-tratamentos ul li, .page-template-page-todos-tratamentos .lista-tratamentos ul li{
+	  		max-width: 199px;
+	  		-webkit-filter: grayscale(0%);
+    		filter: grayscale(0%);
+		    width: 100%;
+		    margin-right: 10px;
+	  }
+	  .page-template-page-tratamentos .outros-tratamentos .lista-tratamentos ul li:nth-child(4n+4){
+	  	margin-right: 10px;
+	  }
+	  .page-template-page-tratamentos .video-tratamento iframe{
+	  	height: 325px;
+	  }
+	  .page-template-page-especialista .especialista+.especialista .box-info, .page-template-page-especialista .especialista .box-info{
+	  	float: left;
+	  	    width: 52%;
+	  }
+	  .ytwd_gallery1 .ytwd_gallery_item1{
+	  	width: 49.666667% !important;
+	  }
+	  #wp_rp_first ul.related_post li{
+  	    width: 45% !important;
+	  }
+	  #solicitarEbook{
+	  	display: table;
+	  	width: 100%;
+	  }
+	  #agendamento .modal-dialog{
+	  	max-width: 400px;
+	  }
+	  #ebook .input-texto.email, #ebook .input-texto{
+		width: 49%;
+		display: inline-block;
+	}
+	.especialistas-home .especialista{
+		min-height: 570px;
+	}
+
+}
+
+@media screen and (max-width: 400px){
+	.especialistas-home .especialista{
+		min-height: initial;
+	}
+	#ebook .input-texto.email, #ebook .input-texto{
+		width: 100%;
+		display: block;
+	}
+	.page-template-page-video .ytwd_gallery1 .ytwd_gallery_item1 .ytwd_items_img1, #ytwd_main_iframe1{
+		min-height: 200px;
+	}
+	.ytwd_gallery1 .ytwd_gallery_item1{
+	  	width: 100% !important;
+	  }
+	.page-template-page-especialista .especialista+.especialista .box-info, .page-template-page-especialista .especialista .box-info{
+		float: none;
+	    width: 100%;
+	}
+	.page-template-page-tratamentos .outros-tratamentos .lista-tratamentos ul li:nth-child(4n+4){
+	  	margin-right: 0px;
+	  }
+	.page-template-page-clinica .lista-tratamentos ul, .page-template-page-tratamentos .outros-tratamentos .lista-tratamentos ul, .page-template-page-todos-tratamentos .lista-tratamentos ul{
+	  	    padding: 0;
+		    width: 100%;
+		    text-align: center;
+
+		
+	  }
+	  .page-template-page-clinica .lista-tratamentos ul li, .page-template-page-tratamentos .outros-tratamentos .lista-tratamentos ul li, .page-template-page-todos-tratamentos .lista-tratamentos ul li{
+	  		max-width: 305px;
+	  		-webkit-filter: grayscale(0%);
+    		filter: grayscale(0%);
+		    width: 100%;
+		    margin-right: 0px;
+	  }
+	.especialistas-home .box-especialista{
+		width: 100%;
+   		 float: none;
+	}
+	.video-institucional iframe{
+		max-height: 215px;
+	}
+	#newsletter .sml_submitbtn, #newsletter input{
+		max-width: 165px;
+	}
+	#wp_rp_first ul.related_post li{
+		width: 100% !important;
+		margin: 10px 0px !important;
+	}
+	.page-template-page-video .ytwd_gallery1 .ytwd_gallery_item1{
+		min-width: 171px;
+	}
+	iframe{
+		max-height: 215px;
+	}
+	#ebook .imagem{
+		width: 160px;
+	}
+	header .agende-consulta{
+		right: 24%;
+	}
+	#agendamento{
+		.modal-dialog{
+			top: 13%;
+		}
+	}
+	#modalContato{
+		.modal-content{
+			background: transparent;
+		}
+	}
+	#modalNewsletter, #modalContato{
+		.modal-dialog{
+			top: 27%;	
+		}
+		
+	}
+}
+@media screen and (max-width: 320px){
+	#agendamento{
+		.modal-dialog{
+			top: 7%;
+		}
+	}
+	#modalNewsletter, #modalContato{
+		.modal-dialog{
+			top: 24%;	
+		}
+		
+	}
+	header .agende-consulta{
+    	right: 19%;
+	}
+	.page-template-page-video .ytwd_gallery1 .ytwd_gallery_item1{
+		    min-width: 145px;
+	}
+	#ebook .imagem{
+		margin-bottom: 0px;
+	}
+}
+@media only screen and (min-device-width : 414px)  and (max-device-width : 736px) {
+	#ebook .imagem{
+		width: 160px;
+	}
+	header .agende-consulta{
+		right: 24%;
+	}
+	#agendamento{
+		.modal-dialog{
+			top: 13%;
+		}
+	}
+	#modalContato{
+		.modal-content{
+			background: transparent;
+		}
+	}
+	#modalNewsletter, #modalContato{
+		.modal-dialog{
+			top: 27%;	
+		}
+		
+	}
+   .especialistas-home .box-especialista{
+   		width: 100%;
+   		float: none;
+   }
+   .page-template-page-clinica .lista-tratamentos ul, .page-template-page-tratamentos .outros-tratamentos .lista-tratamentos ul, .page-template-page-todos-tratamentos .lista-tratamentos ul {
+	    padding: 0;
+	    width: 100%;
+	    text-align: center;
+	}
+	.page-template-page-clinica .lista-tratamentos ul li, .page-template-page-tratamentos .outros-tratamentos .lista-tratamentos ul li, .page-template-page-todos-tratamentos .lista-tratamentos ul li{
+		max-width: 100%;
+	}
+	.page-template-page-todos-tratamentos .lista-tratamentos ul li a span{
+		text-align: left;
+	}
+	#agendamento{
+		.modal-dialog{
+			top: 25%;
+		}
+	}
+	#modalNewsletter, #modalContato{
+		.modal-dialog{
+			top: 24%;	
+		}
+		
+	}
+	header .agende-consulta{
+    	right: 24%;
+	}
+}

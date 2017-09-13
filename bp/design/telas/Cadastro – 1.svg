@@ -1,0 +1,180 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="890 -786 375 667">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Cadastro_1);
+      }
+
+      .cls-18, .cls-2, .cls-7 {
+        fill: none;
+      }
+
+      .cls-13, .cls-2 {
+        stroke: #95989a;
+      }
+
+      .cls-10, .cls-13, .cls-2, .cls-4, .cls-7, .cls-8 {
+        stroke-width: 1px;
+      }
+
+      .cls-15, .cls-16, .cls-3 {
+        fill: #95989a;
+      }
+
+      .cls-3 {
+        font-size: 23px;
+      }
+
+      .cls-11, .cls-14, .cls-15, .cls-16, .cls-3, .cls-5, .cls-6 {
+        font-family: HelveticaNeue, Helvetica Neue;
+      }
+
+      .cls-13, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-10, .cls-4, .cls-8 {
+        stroke: #ddd;
+      }
+
+      .cls-14, .cls-5, .cls-6 {
+        fill: #999;
+      }
+
+      .cls-16, .cls-5 {
+        font-size: 12px;
+      }
+
+      .cls-6 {
+        font-size: 14px;
+      }
+
+      .cls-7 {
+        stroke: #ccc;
+      }
+
+      .cls-8 {
+        fill: #fafafa;
+      }
+
+      .cls-9 {
+        opacity: 0.541;
+      }
+
+      .cls-10 {
+        fill: #ddd;
+      }
+
+      .cls-11 {
+        fill: #666;
+      }
+
+      .cls-11, .cls-15 {
+        font-size: 13px;
+      }
+
+      .cls-12 {
+        opacity: 0.699;
+      }
+
+      .cls-14 {
+        font-size: 15px;
+      }
+
+      .cls-17 {
+        stroke: none;
+      }
+
+      .cls-19 {
+        fill: #f1f1f1;
+      }
+    </style>
+    <clipPath id="clip-Cadastro_1">
+      <rect x="890" y="-786" width="375" height="667"/>
+    </clipPath>
+  </defs>
+  <g id="Cadastro_1" data-name="Cadastro – 1" class="cls-1">
+    <rect class="cls-19" x="890" y="-786" width="375" height="667"/>
+    <g id="group-1" transform="translate(841.215 -879.928)">
+      <g id="rectangle-2" class="cls-2" transform="translate(123.785 154.928)">
+        <rect class="cls-17" width="224.57" height="109.034"/>
+        <rect class="cls-18" x="0.5" y="0.5" width="223.57" height="108.034"/>
+      </g>
+      <text id="Logotipo" class="cls-3" transform="translate(190.785 217.928)"><tspan x="0" y="0">Logotipo</tspan></text>
+    </g>
+    <g id="rectangle-7" class="cls-4" transform="translate(1078 -528)">
+      <rect class="cls-17" width="150.5" height="35"/>
+      <rect class="cls-18" x="0.5" y="0.5" width="149.5" height="34"/>
+    </g>
+    <text id="E-mail" class="cls-5" transform="translate(1093 -506)"><tspan x="0" y="0">Nome</tspan></text>
+    <text id="E-mail-2" data-name="E-mail" class="cls-6" transform="translate(928 -551)"><tspan x="0" y="0">Dados pessoais</tspan></text>
+    <line id="line-3" class="cls-7" x1="191" transform="translate(1037.5 -555.5)"/>
+    <g id="rectangle-7-2" data-name="rectangle-7" class="cls-8" transform="translate(928 -528)">
+      <rect class="cls-17" width="130" height="130"/>
+      <rect class="cls-18" x="0.5" y="0.5" width="129" height="129"/>
+    </g>
+    <g id="rectangle-7-3" data-name="rectangle-7" class="cls-4" transform="translate(1078 -480)">
+      <rect class="cls-17" width="150.5" height="35"/>
+      <rect class="cls-18" x="0.5" y="0.5" width="149.5" height="34"/>
+    </g>
+    <g id="rectangle-7-4" data-name="rectangle-7" class="cls-4" transform="translate(1078 -433)">
+      <rect class="cls-17" width="150.5" height="35"/>
+      <rect class="cls-18" x="0.5" y="0.5" width="149.5" height="34"/>
+    </g>
+    <text id="E-mail-3" data-name="E-mail" class="cls-5" transform="translate(1093 -458)"><tspan x="0" y="0">E-mail</tspan></text>
+    <text id="E-mail-4" data-name="E-mail" class="cls-5" transform="translate(1093 -411)"><tspan x="0" y="0">Idade</tspan></text>
+    <g id="photo-camera" class="cls-9" transform="translate(976 -523.15)">
+      <g id="group" transform="translate(0 46.15)">
+        <path id="path" d="M0,54.718V69.94a4.213,4.213,0,0,0,4.21,4.21H30.288a4.213,4.213,0,0,0,4.21-4.21V54.718a4.008,4.008,0,0,0-4.006-4.006h-5.6l-.134-.584a5.118,5.118,0,0,0-5.013-3.978H14.75a5.129,5.129,0,0,0-5.013,3.978l-.134.584h-5.6A4.013,4.013,0,0,0,0,54.718Zm10.293-2.281a.858.858,0,0,0,.838-.669l.289-1.253a3.405,3.405,0,0,1,3.33-2.64h4.992a3.405,3.405,0,0,1,3.33,2.64l.289,1.253a.866.866,0,0,0,.838.669h6.287a2.281,2.281,0,0,1,2.281,2.281V69.94a2.485,2.485,0,0,1-2.485,2.485H4.21A2.485,2.485,0,0,1,1.725,69.94V54.718a2.281,2.281,0,0,1,2.281-2.281h6.287Z" transform="translate(0 -46.15)"/>
+        <circle id="ellipse" cx="1.155" cy="1.155" r="1.155" transform="translate(4.682 8.815)"/>
+        <path id="path-2" data-name="path" d="M149.345,189.639a7.245,7.245,0,1,0-7.245-7.245A7.256,7.256,0,0,0,149.345,189.639Zm0-12.764a5.52,5.52,0,1,1-5.52,5.52A5.529,5.529,0,0,1,149.345,176.875Z" transform="translate(-132.095 -166.068)"/>
+      </g>
+    </g>
+    <text id="E-mail-5" data-name="E-mail" class="cls-6" transform="translate(928 -343)"><tspan x="0" y="0">Escolha uma senha</tspan></text>
+    <line id="line-3-2" data-name="line-3" class="cls-7" x1="165" transform="translate(1063.5 -347.5)"/>
+    <g id="rectangle-7-5" data-name="rectangle-7" class="cls-4" transform="translate(927 -320)">
+      <rect class="cls-17" width="301.5" height="35"/>
+      <rect class="cls-18" x="0.5" y="0.5" width="300.5" height="34"/>
+    </g>
+    <text id="E-mail-6" data-name="E-mail" class="cls-5" transform="translate(942 -298)"><tspan x="0" y="0">Senha*</tspan></text>
+    <g id="rectangle-7-6" data-name="rectangle-7" class="cls-4" transform="translate(927 -273)">
+      <rect class="cls-17" width="301.5" height="35"/>
+      <rect class="cls-18" x="0.5" y="0.5" width="300.5" height="34"/>
+    </g>
+    <text id="E-mail-7" data-name="E-mail" class="cls-5" transform="translate(942 -251)"><tspan x="0" y="0">Confirmar senha*</tspan></text>
+    <g id="rectangle-7-7" data-name="rectangle-7" class="cls-10" transform="translate(1078 -196)">
+      <rect class="cls-17" width="150.5" height="40"/>
+      <rect class="cls-18" x="0.5" y="0.5" width="149.5" height="39"/>
+    </g>
+    <text id="E-mail-8" data-name="E-mail" class="cls-11" transform="translate(1111 -171)"><tspan x="0" y="0">Próxima etapa</tspan></text>
+    <g id="rectangle-7-8" data-name="rectangle-7" class="cls-4" transform="translate(927 -196)">
+      <rect class="cls-17" width="131.5" height="40"/>
+      <rect class="cls-18" x="0.5" y="0.5" width="130.5" height="39"/>
+    </g>
+    <text id="E-mail-9" data-name="E-mail" class="cls-11" transform="translate(976 -171)"><tspan x="0" y="0">Voltar</tspan></text>
+    <rect id="rectangle-9" class="cls-12" width="375" height="667" transform="translate(890 -786)"/>
+    <g id="group-10" transform="translate(890 -796)">
+      <g id="rectangle-10" class="cls-13" transform="translate(37 170)">
+        <rect class="cls-17" width="302" height="292"/>
+        <rect class="cls-18" x="0.5" y="0.5" width="301" height="291"/>
+      </g>
+      <text id="E-mail-10" data-name="E-mail" class="cls-14" transform="translate(82 217)"><tspan x="0" y="0">Por favor, selecione uma opção</tspan></text>
+      <g id="rectangle-10-2" data-name="rectangle-10" class="cls-13" transform="translate(61 257)">
+        <rect class="cls-17" width="255" height="40"/>
+        <rect class="cls-18" x="0.5" y="0.5" width="254" height="39"/>
+      </g>
+      <text id="Estou_em_períod" data-name="Estou em períod" class="cls-15" transform="translate(101 282)"><tspan x="0" y="0">Estou em período de gravidez</tspan></text>
+      <g id="rectangle-10-3" data-name="rectangle-10" class="cls-13" transform="translate(61 310)">
+        <rect class="cls-17" width="255" height="53"/>
+        <rect class="cls-18" x="0.5" y="0.5" width="254" height="52"/>
+      </g>
+      <text id="Estou_em_períod-2" data-name="Estou em períod" class="cls-15" transform="translate(189 335)"><tspan x="-92.332" y="0">Estou em período de gravidez e</tspan><tspan x="-66.222" y="15" xml:space="preserve"> tenho filhos pequenos</tspan></text>
+      <text id="_." data-name="………." class="cls-16" transform="translate(168 240)"><tspan x="0" y="0">……….</tspan></text>
+      <g id="rectangle-10-4" data-name="rectangle-10" class="cls-13" transform="translate(61 378)">
+        <rect class="cls-17" width="255" height="53"/>
+        <rect class="cls-18" x="0.5" y="0.5" width="254" height="52"/>
+      </g>
+      <text id="Estou_em_períod-3" data-name="Estou em períod" class="cls-15" transform="translate(189 403)"><tspan x="-102.082" y="0">Não estou em período de gravidez,</tspan><tspan x="-78.507" y="15">mas tenho filhos pequenos</tspan></text>
+    </g>
+  </g>
+</svg>

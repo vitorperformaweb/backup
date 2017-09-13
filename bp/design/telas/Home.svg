@@ -1,0 +1,225 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 189 375 667">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-Home);
+      }
+
+      .cls-17, .cls-3 {
+        fill: #ddd;
+      }
+
+      .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-4, .cls-7 {
+        opacity: 0.54;
+      }
+
+      .cls-5 {
+        fill: #f1f1f1;
+      }
+
+      .cls-12, .cls-13, .cls-16, .cls-6 {
+        fill: #95989a;
+      }
+
+      .cls-6 {
+        font-size: 14px;
+      }
+
+      .cls-12, .cls-16, .cls-6 {
+        font-family: HelveticaNeue, Helvetica Neue;
+      }
+
+      .cls-8 {
+        fill: #010002;
+      }
+
+      .cls-9 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-10 {
+        fill: #ccc;
+      }
+
+      .cls-11, .cls-14 {
+        fill: #666;
+      }
+
+      .cls-11 {
+        font-size: 18px;
+      }
+
+      .cls-11, .cls-13, .cls-15 {
+        font-family: HelveticaNeue-Medium, Helvetica Neue;
+        font-weight: 500;
+      }
+
+      .cls-12, .cls-14 {
+        font-size: 12px;
+      }
+
+      .cls-13 {
+        font-size: 13px;
+      }
+
+      .cls-15 {
+        fill: #999;
+        font-size: 11px;
+      }
+
+      .cls-16 {
+        font-size: 20px;
+      }
+
+      .cls-17 {
+        stroke: #fff;
+        stroke-width: 1px;
+      }
+
+      .cls-18 {
+        opacity: 0.543;
+      }
+
+      .cls-19 {
+        stroke: none;
+      }
+
+      .cls-20 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="376" height="1139"/>
+    </clipPath>
+    <clipPath id="clip-Home">
+      <rect y="189" width="375" height="667"/>
+    </clipPath>
+  </defs>
+  <g id="Home" class="cls-2">
+    <rect class="cls-20" y="189" width="375" height="667"/>
+    <g id="group-2" transform="translate(0 189)">
+      <rect id="rectangle-1" class="cls-3" width="375" height="58"/>
+      <g id="group" transform="translate(15 17)">
+        <rect id="rectangle" class="cls-1" width="24" height="24"/>
+        <path id="path" class="cls-4" d="M3,18H21V16H3v2Zm0-5H21V11H3v2ZM3,6V8H21V6Z"/>
+      </g>
+      <g id="group-1" transform="translate(-2 -146)">
+        <rect id="rectangle-2" class="cls-5" width="131" height="39" transform="translate(124 155)"/>
+        <text id="Logotipo" class="cls-6" transform="translate(162 180)"><tspan x="0" y="0">Logotipo</tspan></text>
+      </g>
+      <g id="small-calendar" transform="translate(338 19)">
+        <g id="calendar_1_" class="cls-7" transform="translate(2)">
+          <path id="path-2" data-name="path" class="cls-8" d="M18.334,1.875H15.625V.625a.625.625,0,0,0-1.25,0v1.25h-3.75V.625a.625.625,0,0,0-1.25,0v1.25H5.625V.625a.625.625,0,0,0-1.25,0v1.25H1.667A1.666,1.666,0,0,0,0,3.541V18.333A1.667,1.667,0,0,0,1.667,20H18.334A1.666,1.666,0,0,0,20,18.333V3.541A1.666,1.666,0,0,0,18.334,1.875Zm.416,16.458a.417.417,0,0,1-.416.417H1.667a.417.417,0,0,1-.417-.417V3.541a.417.417,0,0,1,.417-.416H4.375v1.25a.625.625,0,0,0,1.25,0V3.125h3.75v1.25a.625.625,0,0,0,1.25,0V3.125h3.75v1.25a.625.625,0,0,0,1.25,0V3.125h2.709a.417.417,0,0,1,.416.416Z"/>
+          <rect id="rectangle-2-2" data-name="rectangle" class="cls-8" width="2.5" height="1.875" transform="translate(4.375 7.5)"/>
+          <rect id="rectangle-3" data-name="rectangle" class="cls-8" width="2.5" height="1.875" transform="translate(4.375 10.625)"/>
+          <rect id="rectangle-4" data-name="rectangle" class="cls-8" width="2.5" height="1.875" transform="translate(4.375 13.75)"/>
+          <rect id="rectangle-5" data-name="rectangle" class="cls-8" width="2.5" height="1.875" transform="translate(8.75 13.75)"/>
+          <rect id="rectangle-6" data-name="rectangle" class="cls-8" width="2.5" height="1.875" transform="translate(8.75 10.625)"/>
+          <rect id="rectangle-7" data-name="rectangle" class="cls-8" width="2.5" height="1.875" transform="translate(8.75 7.5)"/>
+          <rect id="rectangle-8" data-name="rectangle" class="cls-8" width="2.5" height="1.875" transform="translate(13.125 13.75)"/>
+          <rect id="rectangle-9" data-name="rectangle" class="cls-8" width="2.5" height="1.875" transform="translate(13.125 10.625)"/>
+          <rect id="rectangle-10" data-name="rectangle" class="cls-8" width="2.5" height="1.875" transform="translate(13.125 7.5)"/>
+        </g>
+      </g>
+      <g id="group-1-2" data-name="group-1" transform="translate(-2 -146)">
+        <rect id="rectangle-2-3" data-name="rectangle-2" class="cls-5" width="131" height="39" transform="translate(124 155)"/>
+        <text id="Logotipo-2" data-name="Logotipo" class="cls-6" transform="translate(162 180)"><tspan x="0" y="0">Logotipo</tspan></text>
+      </g>
+    </g>
+    <g id="group-8" class="cls-9" transform="translate(0 247)">
+      <g id="group-7" transform="translate(0 -58)">
+        <g id="group-4" transform="translate(419 -179)">
+          <rect id="rectangle-4-2" data-name="rectangle-4" class="cls-10" width="376" height="193" transform="translate(-419 237)"/>
+        </g>
+        <text id="Women_who_seek_" data-name="Women who seek " class="cls-11" transform="translate(18 262)"><tspan x="0" y="18">As mulheres que procuram ajuda têm </tspan><tspan x="0" y="38">uma maior taxa de sucesso</tspan></text>
+        <text id="_._._._" data-name="……….……….……….………" class="cls-12" transform="translate(31 423)"><tspan x="0" y="0">……….……….……….……….……….……….……….……….</tspan></text>
+        <text id="Women_who_seek_2" data-name="Women who seek " class="cls-13" transform="translate(18 336)"><tspan x="0" y="13">Pense em maneiras de garantir o sucesso antes mesmo </tspan><tspan x="0" y="31">de dar à luz”, sugere Stacey Brosnan, um consultor de </tspan><tspan x="0" y="49">lactação, em Nova York. </tspan><tspan class="cls-14" y="49">Continue lendo…</tspan></text>
+        <text id="Women_who_seek_3" data-name="Women who seek " class="cls-15" transform="translate(18 307)"><tspan x="0" y="11">Publicado em 22/09/2016</tspan></text>
+        <text id="Imagem_destaque" data-name="Imagem destaque" class="cls-16" transform="translate(106 162)"><tspan x="0" y="0">Imagem Destaque</tspan></text>
+      </g>
+      <g id="group-7-2" data-name="group-7" transform="translate(0 330)">
+        <g id="group-4-2" data-name="group-4" transform="translate(419 -179)">
+          <rect id="rectangle-4-3" data-name="rectangle-4" class="cls-10" width="376" height="193" transform="translate(-419 237)"/>
+        </g>
+        <text id="Women_who_seek_4" data-name="Women who seek " class="cls-11" transform="translate(18 262)"><tspan x="0" y="18">As mulheres que procuram ajuda têm </tspan><tspan x="0" y="38">uma maior taxa de sucesso</tspan></text>
+        <text id="_._._._2" data-name="……….……….……….………" class="cls-12" transform="translate(31 423)"><tspan x="0" y="0">……….……….……….……….……….……….……….……….</tspan></text>
+        <text id="Women_who_seek_5" data-name="Women who seek " class="cls-13" transform="translate(18 336)"><tspan x="0" y="13">Pense em maneiras de garantir o sucesso antes mesmo </tspan><tspan x="0" y="31">de dar à luz”, sugere Stacey Brosnan, um consultor de </tspan><tspan x="0" y="49">lactação, em Nova York. </tspan><tspan class="cls-14" y="49">Continue lendo…</tspan></text>
+        <text id="Women_who_seek_6" data-name="Women who seek " class="cls-15" transform="translate(18 307)"><tspan x="0" y="11">Publicado em 22/09/2016</tspan></text>
+        <text id="Imagem_destaque-2" data-name="Imagem destaque" class="cls-16" transform="translate(106 162)"><tspan x="0" y="0">Imagem Destaque</tspan></text>
+      </g>
+      <g id="group-7-3" data-name="group-7" transform="translate(0 718)">
+        <g id="group-4-3" data-name="group-4" transform="translate(419 -179)">
+          <rect id="rectangle-4-4" data-name="rectangle-4" class="cls-10" width="376" height="193" transform="translate(-419 237)"/>
+        </g>
+        <text id="Women_who_seek_7" data-name="Women who seek " class="cls-11" transform="translate(18 262)"><tspan x="0" y="18">As mulheres que procuram ajuda têm </tspan><tspan x="0" y="38">uma maior taxa de sucesso</tspan></text>
+        <text id="_._._._3" data-name="……….……….……….………" class="cls-12" transform="translate(31 423)"><tspan x="0" y="0">……….……….……….……….……….……….……….……….</tspan></text>
+        <text id="Women_who_seek_8" data-name="Women who seek " class="cls-13" transform="translate(18 336)"><tspan x="0" y="13">Pense em maneiras de garantir o sucesso antes mesmo </tspan><tspan x="0" y="31">de dar à luz”, sugere Stacey Brosnan, um consultor de </tspan><tspan x="0" y="49">lactação, em Nova York. </tspan><tspan class="cls-14" y="49">Continue lendo…</tspan></text>
+        <text id="Women_who_seek_9" data-name="Women who seek " class="cls-15" transform="translate(18 307)"><tspan x="0" y="11">Publicado em 22/09/2016</tspan></text>
+        <text id="Imagem_destaque-3" data-name="Imagem destaque" class="cls-16" transform="translate(106 162)"><tspan x="0" y="0">Imagem Destaque</tspan></text>
+      </g>
+    </g>
+    <g id="group-3" transform="translate(0 189)">
+      <g id="rectangle-1-2" data-name="rectangle-1" class="cls-17" transform="translate(-3 617.453)">
+        <rect class="cls-19" width="95.804" height="50.547"/>
+        <rect class="cls-1" x="0.5" y="0.5" width="94.804" height="49.547"/>
+      </g>
+      <g id="rectangle-1-3" data-name="rectangle-1" class="cls-17" transform="translate(92 617.453)">
+        <rect class="cls-19" width="95.804" height="50.547"/>
+        <rect class="cls-1" x="0.5" y="0.5" width="94.804" height="49.547"/>
+      </g>
+      <g id="rectangle-1-4" data-name="rectangle-1" class="cls-17" transform="translate(186 617.453)">
+        <rect class="cls-19" width="95.804" height="50.547"/>
+        <rect class="cls-1" x="0.5" y="0.5" width="94.804" height="49.547"/>
+      </g>
+      <g id="rectangle-1-5" data-name="rectangle-1" class="cls-17" transform="translate(280 617)">
+        <rect class="cls-19" width="95.804" height="50.547"/>
+        <rect class="cls-1" x="0.5" y="0.5" width="94.804" height="49.547"/>
+      </g>
+      <g id="elemental-tip" class="cls-18" transform="translate(109.913 631.001)">
+        <g id="group-2-2" data-name="group" transform="translate(19.087 -0.001)">
+          <g id="group-3-2" data-name="group" transform="translate(0)">
+            <path id="path-3" data-name="path" d="M100.132,23.6a8.149,8.149,0,0,0-3.667,15.427v4.855A2.128,2.128,0,0,0,98.59,46h3.084a2.128,2.128,0,0,0,2.125-2.125V39.023A8.149,8.149,0,0,0,100.132,23.6Zm.634,14.889c-.209.019-.42.03-.634.03s-.425-.01-.634-.03a10.387,10.387,0,0,0-.646-4.34h2.56A10.391,10.391,0,0,0,100.766,38.485Zm1.652,3.983H97.846v-2.9a8.158,8.158,0,0,0,4.572,0Zm0,1.41a.745.745,0,0,1-.744.744H98.59a.745.745,0,0,1-.744-.744v-.029h4.572Zm-.278-5.667a7.575,7.575,0,0,1,1-4.356.691.691,0,0,0-.562-1.092H97.687a.691.691,0,0,0-.562,1.092,7.576,7.576,0,0,1,1,4.356,6.769,6.769,0,1,1,4.015,0Z" transform="translate(-89.206 -22.697)"/>
+            <path id="path-4" data-name="path" d="M21.086,2.977A.691.691,0,0,0,22.063,2L20.266.2a.691.691,0,0,0-.977.977Z" transform="translate(-19.087 0)"/>
+            <path id="path-5" data-name="path" d="M510.133,3.178a.689.689,0,0,0,.489-.2l1.8-1.8A.691.691,0,0,0,511.441.2l-1.8,1.8a.691.691,0,0,0,.488,1.179Z" transform="translate(-490.768 0.001)"/>
+            <path id="path-6" data-name="path" d="M510.622,391.966a.691.691,0,1,0-.977.977l1.8,1.8a.691.691,0,0,0,.977-.977Z" transform="translate(-490.769 -376.844)"/>
+            <path id="path-7" data-name="path" d="M21.086,391.965l-1.8,1.8a.691.691,0,1,0,.977.977l1.8-1.8a.691.691,0,0,0-.977-.977Z" transform="translate(-19.087 -376.843)"/>
+          </g>
+        </g>
+      </g>
+      <g id="check" class="cls-18" transform="translate(260.092 631)">
+        <g id="group-4-4" data-name="group" transform="translate(58.908)">
+          <g id="group-5" data-name="group" transform="translate(0)">
+            <path id="path-8" data-name="path" d="M75.864,34.738H72.179l.249,1.151a1.318,1.318,0,0,1,.013.427h2.635v18.6H60.484v-18.6H63.12a1.329,1.329,0,0,1,.014-.429l.249-1.149H59.7a.788.788,0,0,0-.788.789V55.7a.789.789,0,0,0,.788.789H75.864a.789.789,0,0,0,.789-.789V35.527A.789.789,0,0,0,75.864,34.738Z" transform="translate(-58.908 -33.062)"/>
+            <path id="path-9" data-name="path" d="M233.681,152.949h-5.389a.789.789,0,1,0,0,1.577h5.389a.789.789,0,1,0,0-1.577Z" transform="translate(-219.37 -145.571)"/>
+            <path id="path-10" data-name="path" d="M233.681,253.254h-5.389a.789.789,0,0,0,0,1.578h5.389a.789.789,0,0,0,0-1.578Z" transform="translate(-219.37 -241.038)"/>
+            <path id="path-11" data-name="path" d="M114.024,113.894a.789.789,0,0,0-.095,1.112l1.151,1.364a.787.787,0,0,0,.6.28l.058,0a.788.788,0,0,0,.613-.372l2.07-3.351a.788.788,0,0,0-1.341-.829l-1.5,2.425-.449-.531A.787.787,0,0,0,114.024,113.894Z" transform="translate(-111.099 -106.331)"/>
+            <path id="path-12" data-name="path" d="M135.368,245.094a1.183,1.183,0,1,0,1.183,1.183A1.183,1.183,0,0,0,135.368,245.094Z" transform="translate(-130.554 -233.271)"/>
+            <path id="path-13" data-name="path" d="M233.681,351.359h-5.389a.789.789,0,1,0,0,1.577h5.389a.789.789,0,1,0,0-1.577Z" transform="translate(-219.37 -334.41)"/>
+            <path id="path-14" data-name="path" d="M135.368,343.2a1.183,1.183,0,1,0,1.183,1.183A1.183,1.183,0,0,0,135.368,343.2Z" transform="translate(-130.554 -326.644)"/>
+            <path id="path-15" data-name="path" d="M162.785,3.647h6.692a.541.541,0,0,0,.529-.656L169.453.427a.542.542,0,0,0-.53-.427H163.34a.542.542,0,0,0-.53.427l-.555,2.564a.547.547,0,0,0,.108.455A.54.54,0,0,0,162.785,3.647Z" transform="translate(-157.26)"/>
+          </g>
+        </g>
+      </g>
+      <g id="info" class="cls-18" transform="translate(215.6 624.4)">
+        <g id="group-6" data-name="group" transform="translate(6.4 6.6)">
+          <path id="path-16" data-name="path" d="M18.124,30.028A11.714,11.714,0,1,0,6.4,18.314,11.718,11.718,0,0,0,18.124,30.028Zm0-21.813A10.078,10.078,0,1,1,8.055,18.294,10.089,10.089,0,0,1,18.124,8.216Z" transform="translate(-6.4 -6.6)"/>
+          <path id="path-17" data-name="path" d="M51.527,58.019a.828.828,0,0,0,0,1.656h5.428a.828.828,0,0,0,0-1.656h-1.9V50.728a.819.819,0,0,0-.827-.828h-2.7a.828.828,0,0,0,0,1.656h1.9v6.463Z" transform="translate(-41.76 -41.155)"/>
+          <ellipse id="ellipse" cx="1.332" cy="1.333" rx="1.332" ry="1.333" transform="translate(10.029 4.706)"/>
+        </g>
+      </g>
+      <g id="little-home" class="cls-18" transform="translate(-1449.55 587.352)">
+        <g id="group-7-4" data-name="group" transform="translate(1480.55 43.648)">
+          <path id="path-18" data-name="path" d="M26.934,52.48l-3.226-2.208v-5.65a.789.789,0,0,0-.789-.789H19.076a.789.789,0,0,0-.789.789v1.939l-4.2-2.876a.789.789,0,0,0-.9,0L.344,52.48a.789.789,0,1,0,.891,1.3l2.334-1.6V66.152a.789.789,0,0,0,.789.789h18.56a.789.789,0,0,0,.789-.789V52.184l2.334,1.6a.789.789,0,0,0,.892-1.3ZM15.277,65.363H12V57.69h3.276Zm6.853,0H16.855V56.9a.789.789,0,0,0-.789-.789H11.212a.789.789,0,0,0-.789.789v8.462H5.148V51.1l8.491-5.811L22.13,51.1V65.363h0Zm0-16.171-2.265-1.55v-2.23H22.13Z" transform="translate(0 -43.545)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

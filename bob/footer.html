@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script language="javascript" src="http://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.700.1246"  type="text/javascript"></script>
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
+	<link rel="stylesheet" href="//bestofbeauty.vteximg.com.br/arquivos/global-bob2.css" />
+	<link rel="stylesheet" href="estilo-pw.css" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body>
+<!--PW Header-->
+<div class="pw-header-mobile">
+	<div class="row">
+		<div class="col-xs-3 abrir-menu">
+			<span class="menu">
+				<i class="fa fa-bars" aria-hidden="true"></i>
+			</span>
+		</div>
+		<div class="col-xs-6">
+			<a href="/" class="logotipo">
+				<img src="arquivos/logo-branco.png">
+			</a>
+		</div>
+		<div class="col-xs-3">
+			<span class="carrinho">
+				<a href="/checkout/#/cart">
+					<i class="fa fa-shopping-cart" aria-hidden="true"></i>
+				</a>
+			</span>
+		</div>
+	</div>
+</div>
+<div class="pw-menu-mobile">
+	<ul class="menu">
+        <li class="first has-child">
+            <a href="/rosto">Rosto</a>
+            <ul class="sub-menu">
+                <li> <a href="/rosto/acne">Acne</a></li>
+                <li> <a href="/rosto/anti-idade">Anti-idade</a></li>
+                <li> <a href="/rosto/depilacao-facial">Depilação Facial</a></li>
+                <li> <a href="/rosto/maquiagem">Maquiagem</a></li>
+            </ul>
+        </li>
+        <li class="has-child">
+            <a href="/corpo">Corpo</a>
+            <ul class="sub-menu">
+                <li> <a href="/corpo/celulite-e-flacidez">Celulite e Flacidez</a></li>
+                <li> <a href="/corpo/depilacao-corporal">Depilação Corporal</a></li>
+            </ul>
+        </li>
+        
+        <li class="has-child">
+            <a href="/cabelos">Cabelo</a>
+            <ul class="sub-menu">
+                <li> <a href="/cabelos/escovas-tangle-teezer">Escovas Tangle Teezer</a></li>
+            </ul>
+        </li>
+        
+        <li class="has-child">
+            <a href="/cabelo">Tratamentos</a>
+            <ul class="sub-menu">
+                <li> <a href="/tratamentos/acne?PS=12">Acne</a></li>
+                <li> <a href="/tratamentos/anti-idade?PS=12">Anti-idade</a></li>
+                <li> <a href="/tratamentos/celulite-e-flacidez-corporal?PS=12">Celulite e Flacidez Corporal</a></li>
+                <li> <a href="/tratamentos/depilacao-corporal?PS=12">Depilação</a></li>
+            </ul>
+        </li>
+        <li class="has-child">
+            <a href="/tratamentos">Homem</a>
+            <ul class="sub-menu">
+                <li> <a href="/homem/acne">Acne</a></li>
+                <li> <a href="/homem/anti-idade">Anti-idade</a></li>
+                <li> <a href="/homem/depilacao">Depilação</a></li>
+            </ul>
+        </li>
+        <li class="has-child">
+            <a href="/dermocosmeticos">Marcas</a>
+            <ul class="sub-menu">
+                <li> <a href="/hotsite/iluminage">Iluminage</a></li>
+                <li> <a href="/makeup-eraser">Makeup Eraser</a></li>
+                <li> <a href="/tanda">Tanda</a></li>
+                <li> <a href="/tripollar">Tripollar</a></li>
+            </ul>
+        </li>
+        <li><a href="/ofertas">Ofertas</a></li>
+    </ul>
+	<div class="fechar">
+		<i class="fa fa-times" aria-hidden="true"></i>
+	</div>
+</div>
+<div class="pw-busca-mobile">
+	<div class="col-md-12">
+		<fieldset class="busca"><legend>Buscar no site</legend><label>Buscar</label><select id="ftDept507a2a9782604feaadcbea0a2deb6669"><option value="">Todo o site</option><option value="1">Corpo</option><option value="4">Tratamentos</option><option value="8">Rosto</option><option value="17">Homens</option><option value="18">Marcas</option><option value="28">Higiene Pessoal</option><option value="25">Cabelos</option></select><input type="hidden" id="ftIdx507a2a9782604feaadcbea0a2deb6669" value=""><input id="ftBox507a2a9782604feaadcbea0a2deb6669" class="fulltext-search-box ui-autocomplete-input" type="text" size="20" accesskey="b" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true"><input id="ftBtn507a2a9782604feaadcbea0a2deb6669" type="button" value="Buscar" class="btn-buscar"></fieldset>
+	</div>
+</div>
+<header class="pw-header"><div class="container"><div class="row"><div class="col-md-5 text-left"><div class="icones"><ul><li class="minha-conta"><span class="icone"></span><span class="texto"><span class="icone"></span><script>
+                                    $(document).ready(function () {
+                                        vtexid.setScope('947c0fcc-9d09-480a-97a8-7e74678d1c8e');
+                                        vtexid.setScopeName('bestofbeauty');
+                                        $('body').on('click', '#login', function () {
+                                            vtexid.start(
+                                                    {
+                                                        returnUrl: '/?lid=43690357-c29c-4678-98e5-6dfa45bbb0a6',
+                                                        userEmail: '',
+                                                        locale: 'pt-BR',
+                                                        forceReload: false
+                                                    });
+                                        });
+                                    });
+                                   </script><div class="ajax-content-loader" rel="/no-cache/user/welcome">
+        <p class="welcome">
+        Bem Vindo!
+        <em><a id="login">Faça seu login ou cadastre-se
+        </a></em>
+        </p>
+</div></span></li><li class="whatsapp"><span class="icone"></span><span class="texto"><span class="icone"></span> Whatsapp (11) 94329-7505</span></li><li class="televendas"><span class="icone"></span><span class="texto"><span class="icone"></span> Televendas (11) 2548 - 4210</span></li></ul></div></div><div class="col-md-2"><h1 class="site-logo"><a href="/">Best of Beauty</a></h1></div><div class="col-md-5 text-right"><div class="icones"><ul><li class="busca"><span class="icone"></span><div class="search"><script type="text/javascript" language="javascript"> /*<![CDATA[*/ $(document).ready(function(){currentDept = '0'; enableFullTextSearchBox('ftBoxf028df57c1124dcdaa128a7582f9e982', 'ftDeptf028df57c1124dcdaa128a7582f9e982', 'ftIdxf028df57c1124dcdaa128a7582f9e982', 'ftBtnf028df57c1124dcdaa128a7582f9e982', '/SEARCHTERM','Digite aqui a sua busca...' );}); /*]]>*/ </script><fieldset class="busca"><legend>Buscar no site</legend><label>Buscar</label><select id="ftDeptf028df57c1124dcdaa128a7582f9e982"><option value="">Todo o site</option><option value="1">Corpo</option><option value="4">Tratamentos</option><option value="8">Rosto</option><option value="17">Homens</option><option value="18">Marcas</option><option value="28">Higiene Pessoal</option><option value="25">Cabelos</option></select><input type="hidden" id="ftIdxf028df57c1124dcdaa128a7582f9e982" value=""><input id="ftBoxf028df57c1124dcdaa128a7582f9e982" class="fulltext-search-box ui-autocomplete-input" type="text" size="20" accesskey="b" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true"><input id="ftBtnf028df57c1124dcdaa128a7582f9e982" type="button" value="Buscar" class="btn-buscar"></fieldset></div></li><li class="carrinho"><span class="icone"></span><div class="cart text-right"><a href="/checkout/#/cart"><div class="countCart"><div class="arrow_box"><span><div class="portal-totalizers-ref"><div class="amount-items-in-cart"><div class="cartInfoWrapper"><span class="title"><span id="MostraTextoXml1">Resumo do Carrinho</span></span><ul class="cart-info"><li class="amount-products"><strong><span id="MostraTextoXml2">Total de Produtos:</span></strong> <em class="amount-products-em">0</em></li><li class="amount-items"><strong><span id="MostraTextoXml3">Itens:</span></strong> <em class="amount-items-em">0</em></li><li class="amount-kits"><strong><span id="MostraTextoXml4">Total de Kits:</span></strong> <em class="amount-kits-em"></em></li><li class="total-cart"><strong><span id="MostraTextoXml5">Valor Total:</span></strong> <em class="total-cart-em">R$ 0,00</em></li></ul></div></div></div><script>$('.portal-totalizers-ref').minicart({ showMinicart: false, showTotalizers: true, showShippingOptions: false });</script></span></div></div></a></div></li></ul></div></div></div></div><div class="menu-topo"><div class="container"><ul class="nav navbar-nav"><li class="first"><a href="/rosto">Rosto</a><ul class="dropdown-menu"><li><a href="/rosto/acne">Acne</a></li><li><a href="/rosto/anti-idade">Anti-idade</a></li><li><a href="/rosto/depilacao-facial">Depilação Facial</a></li><li><a href="/rosto/maquiagem">Maquiagem</a></li></ul></li><li><a href="/corpo">Corpo</a><ul class="dropdown-menu"><li><a href="/corpo/celulite-e-flacidez">Celulite e Flacidez</a></li><li><a href="/corpo/depilacao-corporal">Depilação Corporal</a></li></ul></li><li><a href="/cabelos">Cabelo</a><ul class="dropdown-menu"><li><a href="/cabelos/escovas-tangle-teezer">Escovas Tangle Teezer</a></li></ul></li><li><a href="/cabelo">Tratamentos</a><ul class="dropdown-menu"><li><a href="/tratamentos/acne?PS=12">Acne</a></li><li><a href="/tratamentos/anti-idade?PS=12">Anti-idade</a></li><li><a href="/tratamentos/celulite-e-flacidez-corporal?PS=12">Celulite e Flacidez Corporal</a></li><li><a href="/tratamentos/depilacao-corporal?PS=12">Depilação</a></li></ul></li><li><a href="/tratamentos">Homem</a><ul class="dropdown-menu"><li><a href="/homem/acne">Acne</a></li><li><a href="/homem/anti-idade">Anti-idade</a></li><li><a href="/homem/depilacao">Depilação</a></li></ul></li><li><a href="/dermocosmeticos">Marcas</a><ul class="dropdown-menu"><li><a href="/hotsite/iluminage">Iluminage</a></li><li><a href="/makeup-eraser">Makeup Eraser</a></li><li><a href="/tanda">Tanda</a></li><li><a href="/tripollar">Tripollar</a></li></ul></li><li><a href="/ofertas">Ofertas</a></li></ul></div></div>
+</header>
+
+<div class="pw-header-fixo">
+	<div class="row">
+		<div class="container">
+			<div class="col-md-3">
+				<div class="logo">
+					<a href="/">Best of Beauty</a>
+				</div>
+			</div>
+			<div class="col-md-7">
+				<div class="busca">
+					<vtex.cmc:fullTextSearchBox/>
+				</div>
+			</div>
+			<div class="col-md-1">
+				<a href="/login?ReturnUrl=%2faccount%2forders">
+					<div class="minha-conta"></div>
+				</a>
+			</div>
+			<div class="col-md-1">
+				<div class="carrinho">
+					<div class="icone"></div>
+					<div class="cart text-right">
+                        <a href="/checkout/#/cart">
+                            <div class="countCart">
+                                <div class="arrow_box">
+                                    <span><vtex.cmc:AmountItemsInCart/></span>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="pw-corpo">
+
+</div>
+<footer class="pw-footer">
+    <div class="row">
+        <div class="container">
+            <div class="col-md-4 pr10">
+                <div class="links-footer">
+                    <ul>
+                        <li>Best of Beauty</li>
+                        <li><a href="/quem-somos">Quem Somos</a></li>
+                        <li><a href="/fale-conosco">Fale Conosco</a></li>
+                    </ul>
+                </div>
+                <div class="show-room">
+                    <ul>
+                        <li>Showroom</li>
+                        <li>Rua Comendador Miguel Calfat, 128 – Térreo <br/>Itaim Bibi –São Paulo/SP</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="atendimento">
+                    <ul>
+                        <li>Atendimento ao Cliente</li>
+                        <li>(11) 2548-4210</li>
+                        <li>atendimento@bestofbeauty.com.br</li>
+                        <li>sac@bestofbeauty.com.br</li>
+                    </ul>
+                    <ul>
+                        <li>Whatsapp</li>
+                        <li>(11) 94329-7505</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-2 pl0">
+                <div class="pagamento-certificados">
+                    <ul>
+                        <li>Formas de Pagamento</li>
+                        <img src="/arquivos/meio-pagamento.jpg" />
+                    </ul>
+                    <ul>
+            		    <li>Certificados</li>
+            		    <li class="selo-digicert">
+            		        <div id="DigiCertClickID_upQFheU1" data-language="en"> 
+            		            <a href="https://www.digicert.com/unified-communications-ssl-tls.htm">DigiCert.com</a> 
+            		        </div> 
+            		    </li>
+            		    <li class="clear-sale-icon"><img src="/arquivos/footer_clearsale.png"/></li>
+            		    <li class="selo-softvar"></li>
+            		</ul>
+                </div>
+            </div>
+            <div class="col-md-3">
+            	<div class="redes-sociais">
+            		<ul>
+            			<li>Redes Sociais</li>
+            			<li class="rede">
+            				<a href="https://www.facebook.com/Best-of-Beauty-788018281304640/" target="_blank">
+            					<i class="fa fa-facebook" aria-hidden="true"></i>
+            				</a>
+            			</li>
+            			<li class="rede">
+            				<a href="https://twitter.com/bestofbeautybr" target="_blank">
+            					<i class="fa fa-twitter" aria-hidden="true"></i>
+            				</a>
+            			</li>
+            			<li class="rede">
+            				<a href="https://www.instagram.com/bestofbeautybrasil/r" target="_blank">
+            					<i class="fa fa-instagram" aria-hidden="true"></i>
+        					</a>
+            			</li>
+            			<li class="rede">
+            				<a href="https://www.youtube.com/channel/UCM7GRR9vVWNmchZxCRue8cA" target="_blank">
+            					<i class="fa fa-youtube" aria-hidden="true"></i>
+            				</a>
+            			</li>
+        			</ul>
+            	</div>
+            	<div class="copy">
+            		COPYRIGHT @ 2017<br/>
+            		BEST OF BEAUTY - TODOS OS DIREITOS RESERVADOS
+            		<br/><br/>
+            		WWW.BESTOFBEAUTY.COM.BR
+            		CNPJ: 12.401.855 0001-03
+            	</div>
+            </div>
+        </div>
+    </div>
+</footer>
+<section class="copyright">
+    <ul>
+	    <li class="agv-copyright">
+	        <span>Desenvolvido por</span>
+		    <a href="http://www.performaweb.com.br" rel="nofollow" target="_blank">Agencia da Vila</a>
+		</li>
+		<li class="vtex-plataform">
+		    <a href="http://www.vtex.com.br" rel="nofollow" target="_blank">vtex</a>
+	    </li>
+    </ul>
+</section>
+
+<script type="text/javascript"> var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_upQFheU1", "7", "s", "black", "upQFheU1"]);(function(){var cid=document.createElement("script");cid.async=true;cid.src="//seal.digicert.com/seals/cascade/seal.min.js";var s = document.getElementsByTagName("script");var ls = s[(s.length - 1)];ls.parentNode.insertBefore(cid, ls.nextSibling);}()); </script>
+<vtex:template id="agv-script" />
+<script type="text/javascript" src="/arquivos/jquery.rules.js"></script>
+
+<script type="text/javascript">
+	$('.pw-header-mobile .abrir-menu').click(function(){
+		if(!$('body').hasClass('no-scroll')){
+			$('body').addClass('no-scroll');
+			$('.pw-menu-mobile').fadeIn();
+			$('.pw-menu-mobile .menu').animate({
+				'margin-left': '0px',
+			})
+		}else{
+			$('body').removeClass('no-scroll');
+			$('.menu').animate({
+				'margin-left': '-100%',
+			})
+			$('.pw-menu-mobile').fadeOut();
+		}
+	})
+	$('.pw-menu-mobile .fechar').click(function(){
+		$('body').removeClass('no-scroll');
+		$('.pw-menu-mobile .menu').animate({
+			'margin-left': '-100%',
+		})
+		$('.pw-menu-mobile').fadeOut();
+	})
+	$('.pw-menu-mobile li.has-child').click(function(){
+		$('.sub-menu',this).slideToggle();
+	})
+</script>
+
+</body>
+</html>
